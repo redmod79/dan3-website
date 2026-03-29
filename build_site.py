@@ -2,7 +2,7 @@
 """
 build_site.py — Build the Daniel: Three Views Compared website.
 
-Scans D:/bible/bible-studies/dan3-* for all 31 studies,
+Scans D:/bible/bible-studies/dan3-* for all 36 studies,
 copies files into docs/studies/, generates mkdocs.yml and index.md,
 and copies shared assets from etc-website.
 """
@@ -52,6 +52,11 @@ SHORT_TITLES = {
     "dan3-28": "PRET Steelman",
     "dan3-29": "FUT Steelman",
     "dan3-30": "Grand Synthesis",
+    "dan3-31": "HIST Framework",
+    "dan3-32": "PRET Framework",
+    "dan3-33": "FUT Framework",
+    "dan3-34": "Framework Comparison",
+    "dan3-35": "Final Synthesis",
 }
 
 FULL_TITLES = {
@@ -86,6 +91,11 @@ FULL_TITLES = {
     "dan3-28": "The complete preterist case across all of Daniel",
     "dan3-29": "The complete futurist case across all of Daniel",
     "dan3-30": "Grand synthesis: what Daniel's prophetic visions establish, suggest, and leave disputed",
+    "dan3-31": "What is the historicist reading of Daniel as a complete interpretive system?",
+    "dan3-32": "What is the preterist reading of Daniel as a complete interpretive system?",
+    "dan3-33": "What is the futurist reading of Daniel as a complete interpretive system?",
+    "dan3-34": "How do the three interpretive systems compare at the structural level?",
+    "dan3-35": "Final assessment: framework-evidence alignment, graded viability, and convergence",
 }
 
 # Cluster groupings
@@ -131,9 +141,14 @@ CLUSTERS = [
         "studies": ["dan3-27", "dan3-28", "dan3-29"],
     },
     {
+        "name": "Framework Analysis",
+        "desc": "Zooming out from details to systems: what each position IS as an interpretive framework, compared side by side.",
+        "studies": ["dan3-31", "dan3-32", "dan3-33", "dan3-34"],
+    },
+    {
         "name": "Synthesis",
-        "desc": "Grand synthesis comparing all three positions with 399 classified evidence items across 126 inferences.",
-        "studies": ["dan3-30"],
+        "desc": "Grand evidence synthesis (399 items) and final framework-plus-evidence capstone assessment.",
+        "studies": ["dan3-30", "dan3-35"],
     },
 ]
 

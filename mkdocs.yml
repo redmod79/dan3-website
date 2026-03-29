@@ -630,6 +630,66 @@ nav:
           - "Cross-Testament Parallels": studies/dan3-29-FUT-steelman/raw-data/parallels.md
           - "Strong's Lookups": studies/dan3-29-FUT-steelman/raw-data/strongs-lookups.md
 
+    # ── Framework Analysis ──
+    - "Framework Analysis":
+
+      - "31 -- HIST Framework":
+        - studies/dan3-31-HIST-framework/CONCLUSION.md
+        - Analysis: studies/dan3-31-HIST-framework/03-analysis.md
+        - Verses: studies/dan3-31-HIST-framework/02-verses.md
+        - Word Studies: studies/dan3-31-HIST-framework/04-word-studies.md
+        - Topics: studies/dan3-31-HIST-framework/01-topics.md
+        - Research Scope: studies/dan3-31-HIST-framework/PROMPT.md
+        - References: studies/dan3-31-HIST-framework/00-references.md
+        - Custom Instructions: studies/dan3-31-HIST-framework/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Existing Studies": studies/dan3-31-HIST-framework/raw-data/existing-studies.md
+          - "Nave's Topics": studies/dan3-31-HIST-framework/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-31-HIST-framework/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-31-HIST-framework/raw-data/strongs-lookups.md
+      - "32 -- PRET Framework":
+        - studies/dan3-32-PRET-framework/CONCLUSION.md
+        - Analysis: studies/dan3-32-PRET-framework/03-analysis.md
+        - Verses: studies/dan3-32-PRET-framework/02-verses.md
+        - Word Studies: studies/dan3-32-PRET-framework/04-word-studies.md
+        - Topics: studies/dan3-32-PRET-framework/01-topics.md
+        - Research Scope: studies/dan3-32-PRET-framework/PROMPT.md
+        - References: studies/dan3-32-PRET-framework/00-references.md
+        - Custom Instructions: studies/dan3-32-PRET-framework/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Existing Studies": studies/dan3-32-PRET-framework/raw-data/existing-studies.md
+          - "Hebrew Parsing": studies/dan3-32-PRET-framework/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-32-PRET-framework/raw-data/naves-topics.md
+          - "Strong's Lookups": studies/dan3-32-PRET-framework/raw-data/strongs-lookups.md
+      - "33 -- FUT Framework":
+        - studies/dan3-33-FUT-framework/CONCLUSION.md
+        - Analysis: studies/dan3-33-FUT-framework/03-analysis.md
+        - Verses: studies/dan3-33-FUT-framework/02-verses.md
+        - Word Studies: studies/dan3-33-FUT-framework/04-word-studies.md
+        - Topics: studies/dan3-33-FUT-framework/01-topics.md
+        - Research Scope: studies/dan3-33-FUT-framework/PROMPT.md
+        - References: studies/dan3-33-FUT-framework/00-references.md
+        - Custom Instructions: studies/dan3-33-FUT-framework/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Existing Studies": studies/dan3-33-FUT-framework/raw-data/existing-studies.md
+          - "Greek Parsing": studies/dan3-33-FUT-framework/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/dan3-33-FUT-framework/raw-data/naves-topics.md
+          - "Strong's Lookups": studies/dan3-33-FUT-framework/raw-data/strongs-lookups.md
+      - "34 -- Framework Comparison":
+        - studies/dan3-34-framework-comparison/CONCLUSION.md
+        - Analysis: studies/dan3-34-framework-comparison/03-analysis.md
+        - Verses: studies/dan3-34-framework-comparison/02-verses.md
+        - Word Studies: studies/dan3-34-framework-comparison/04-word-studies.md
+        - Topics: studies/dan3-34-framework-comparison/01-topics.md
+        - Research Scope: studies/dan3-34-framework-comparison/PROMPT.md
+        - References: studies/dan3-34-framework-comparison/00-references.md
+        - Custom Instructions: studies/dan3-34-framework-comparison/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Existing Studies": studies/dan3-34-framework-comparison/raw-data/existing-studies.md
+          - "Nave's Topics": studies/dan3-34-framework-comparison/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-34-framework-comparison/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-34-framework-comparison/raw-data/strongs-lookups.md
+
     # ── Synthesis ──
     - "Synthesis":
 
@@ -653,6 +713,20 @@ nav:
           - "I-B Resolutions": studies/dan3-30-grand-synthesis/raw-data/ib-resolutions.md
           - "Specification Matrices": studies/dan3-30-grand-synthesis/raw-data/specification-matrices.md
           - "Steelman Weaknesses": studies/dan3-30-grand-synthesis/raw-data/steelman-weaknesses.md
+      - "35 -- Final Synthesis":
+        - studies/dan3-35-final-synthesis/CONCLUSION.md
+        - Analysis: studies/dan3-35-final-synthesis/03-analysis.md
+        - Verses: studies/dan3-35-final-synthesis/02-verses.md
+        - Word Studies: studies/dan3-35-final-synthesis/04-word-studies.md
+        - Topics: studies/dan3-35-final-synthesis/01-topics.md
+        - Research Scope: studies/dan3-35-final-synthesis/PROMPT.md
+        - References: studies/dan3-35-final-synthesis/00-references.md
+        - Custom Instructions: studies/dan3-35-final-synthesis/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Existing Studies": studies/dan3-35-final-synthesis/raw-data/existing-studies.md
+          - "Nave's Topics": studies/dan3-35-final-synthesis/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-35-final-synthesis/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-35-final-synthesis/raw-data/strongs-lookups.md
 
   - Methodology: methodology.md
   - "Tools & Process": tools.md
