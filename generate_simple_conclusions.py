@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-generate_simple_conclusions.py — Generate conclusion-simple.md for each hist study.
+generate_simple_conclusions.py — Generate conclusion-simple.md for each dan3 study.
 
 Reads each study's CONCLUSION.md and uses the Anthropic API to produce
 a plain-language summary.
@@ -29,9 +29,11 @@ Rules:
 - DO include direct Bible quotations (KJV) with references — these are essential.
 - DO preserve the study's actual findings and conclusions faithfully.
 - DO cover what the Bible says AND what it does not say on this topic.
-- This series investigates whether Daniel and Revelation describe continuous history
-  (historicism) vs. first-century events (preterism), future events (futurism), or
-  timeless truths (idealism). Present the findings clearly.
+- This series is a comparative investigation of Daniel's prophecies through three
+  interpretive lenses: Historicism (prophecies span continuous history), Preterism
+  (prophecies fulfilled in the Maccabean era), and Futurism/Dispensationalism
+  (prophecies primarily about a future tribulation). Present each position's case
+  fairly, but state clearly where the weight of biblical evidence falls.
 - Follow this structure:
   1. Title (# heading) — a clear statement of the topic
   2. ## A Plain-English Summary of the Biblical Evidence (subtitle)
@@ -58,10 +60,10 @@ Here is the full CONCLUSION.md:
 
 
 def get_study_folders():
-    """Find all hist study folders in docs/studies/."""
+    """Find all dan3 study folders in docs/studies/."""
     folders = []
     for d in sorted(DOCS_STUDIES.iterdir()):
-        if d.is_dir() and re.match(r"hist-\d{2}-", d.name):
+        if d.is_dir() and re.match(r"dan3-\d{2}-", d.name):
             folders.append(d)
     return folders
 
@@ -105,7 +107,7 @@ def main():
     if len(sys.argv) > 1 and not sys.argv[1].startswith("--"):
         targets = set(sys.argv[1:])
         folders = [f for f in folders if f.name in targets or
-                   re.match(r"hist-(\d{2})", f.name).group(0) in targets]
+                   re.match(r"dan3-(\d{2})", f.name).group(0) in targets]
 
     print(f"Generating conclusion-simple.md for {len(folders)} studies...\n")
 
