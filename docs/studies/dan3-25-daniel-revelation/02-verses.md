@@ -1,0 +1,545 @@
+# Verses
+
+## Question
+How does Revelation develop Daniel's prophetic themes, and what does the literary dependence establish?
+
+---
+
+## Primary Verses: Daniel
+
+### Daniel 3:1-7 (Image-Worship-Penalty Pattern)
+
+> Daniel 3:1  Nebuchadnezzar the king made an image of gold, whose height [was] threescore cubits, [and] the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.
+> Daniel 3:2  Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.
+> Daniel 3:3  Then the princes, the governors, and captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.
+> Daniel 3:4  Then an herald cried aloud, To you it is commanded, O people, nations, and languages,
+> Daniel 3:5  [That] at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:
+> Daniel 3:6  And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.
+> Daniel 3:7  Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down [and] worshipped the golden image that Nebuchadnezzar the king had set up.
+
+### Daniel 7 (Complete Chapter: Four Beasts, Judgment, Son of Man, Kingdom)
+
+> Daniel 7:1  In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, [and] told the sum of the matters.
+> Daniel 7:2  Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
+> Daniel 7:3  And four great beasts came up from the sea, diverse one from another.
+> Daniel 7:4  The first [was] like a lion, and had eagle's wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.
+> Daniel 7:5  And behold another beast, a second, like to a bear, and it raised up itself on one side, and [it had] three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
+> Daniel 7:6  After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.
+> Daniel 7:7  After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it [was] diverse from all the beasts that [were] before it; and it had ten horns.
+> Daniel 7:8  I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn [were] eyes like the eyes of man, and a mouth speaking great things.
+> Daniel 7:9  I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment [was] white as snow, and the hair of his head like the pure wool: his throne [was like] the fiery flame, [and] his wheels [as] burning fire.
+> Daniel 7:10  A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
+> Daniel 7:11  I beheld then because of the voice of the great words which the horn spake: I beheld [even] till the beast was slain, and his body destroyed, and given to the burning flame.
+> Daniel 7:12  As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
+> Daniel 7:13  I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
+> Daniel 7:14  And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
+> Daniel 7:15  I Daniel was grieved in my spirit in the midst of [my] body, and the visions of my head troubled me.
+> Daniel 7:16  I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.
+> Daniel 7:17  These great beasts, which are four, [are] four kings, [which] shall arise out of the earth.
+> Daniel 7:18  But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
+> Daniel 7:19  Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth [were of] iron, and his nails [of] brass; [which] devoured, brake in pieces, and stamped the residue with his feet;
+> Daniel 7:20  And of the ten horns that [were] in his head, and [of] the other which came up, and before whom three fell; even [of] that horn that had eyes, and a mouth that spake very great things, whose look [was] more stout than his fellows.
+> Daniel 7:21  I beheld, and the same horn made war with the saints, and prevailed against them;
+> Daniel 7:22  Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
+> Daniel 7:23  Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.
+> Daniel 7:24  And the ten horns out of this kingdom [are] ten kings [that] shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
+> Daniel 7:25  And he shall speak [great] words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
+> Daniel 7:26  But the judgment shall sit, and they shall take away his dominion, to consume and to destroy [it] unto the end.
+> Daniel 7:27  And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.
+> Daniel 7:28  Hitherto [is] the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
+
+### Daniel 8 (Complete Chapter: Ram, Goat, Little Horn, Nitsdaq)
+
+> Daniel 8:1  In the third year of the reign of king Belshazzar a vision appeared unto me, [even unto] me Daniel, after that which appeared unto me at the first.
+> Daniel 8:2  And I saw in a vision; and it came to pass, when I saw, that I [was] at Shushan [in] the palace, which [is] in the province of Elam; and I saw in a vision, and I was by the river of Ulai.
+> Daniel 8:3  Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had [two] horns: and the [two] horns [were] high; but one [was] higher than the other, and the higher came up last.
+> Daniel 8:4  I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither [was there any] that could deliver out of his hand; but he did according to his will, and became great.
+> Daniel 8:5  And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat [had] a notable horn between his eyes.
+> Daniel 8:6  And he came to the ram that had [two] horns, which I had seen standing before the river, and ran unto him in the fury of his power.
+> Daniel 8:7  And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
+> Daniel 8:8  Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.
+> Daniel 8:9  And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant [land].
+> Daniel 8:10  And it waxed great, [even] to the host of heaven; and it cast down [some] of the host and of the stars to the ground, and stamped upon them.
+> Daniel 8:11  Yea, he magnified [himself] even to the prince of the host, and by him the daily [sacrifice] was taken away, and the place of his sanctuary was cast down.
+> Daniel 8:12  And an host was given [him] against the daily [sacrifice] by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.
+> Daniel 8:13  Then I heard one saint speaking, and another saint said unto that certain [saint] which spake, How long [shall be] the vision [concerning] the daily [sacrifice], and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?
+> Daniel 8:14  And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.
+> Daniel 8:15  And it came to pass, when I, [even] I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.
+> Daniel 8:16  And I heard a man's voice between [the banks of] Ulai, which called, and said, Gabriel, make this [man] to understand the vision.
+> Daniel 8:17  So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end [shall be] the vision.
+> Daniel 8:18  Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.
+> Daniel 8:19  And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end [shall be].
+> Daniel 8:20  The ram which thou sawest having [two] horns [are] the kings of Media and Persia.
+> Daniel 8:21  And the rough goat [is] the king of Grecia: and the great horn that [is] between his eyes [is] the first king.
+> Daniel 8:22  Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
+> Daniel 8:23  And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
+> Daniel 8:24  And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
+> Daniel 8:25  And through his policy also he shall cause craft to prosper in his hand; and he shall magnify [himself] in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
+> Daniel 8:26  And the vision of the evening and the morning which was told [is] true: wherefore shut thou up the vision; for it [shall be] for many days.
+> Daniel 8:27  And I Daniel fainted, and was sick [certain] days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood [it].
+
+### Daniel 10:5-6 (Appearance Description Parallel to Rev 1)
+
+> Daniel 10:5  Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins [were] girded with fine gold of Uphaz:
+> Daniel 10:6  His body also [was] like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.
+
+### Daniel 10 Context (Full Chapter)
+
+> Daniel 10:1  In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing [was] true, but the time appointed [was] long: and he understood the thing, and had understanding of the vision.
+> Daniel 10:2  In those days I Daniel was mourning three full weeks.
+> Daniel 10:3  I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.
+> Daniel 10:4  And in the four and twentieth day of the first month, as I was by the side of the great river, which [is] Hiddekel;
+> Daniel 10:5  Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins [were] girded with fine gold of Uphaz:
+> Daniel 10:6  His body also [was] like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.
+> Daniel 10:7  And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.
+> Daniel 10:8  Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.
+> Daniel 10:9  Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground.
+> Daniel 10:10  And, behold, an hand touched me, which set me upon my knees and [upon] the palms of my hands.
+> Daniel 10:11  And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.
+> Daniel 10:12  Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.
+> Daniel 10:13  But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
+> Daniel 10:14  Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision [is] for [many] days.
+> Daniel 10:15  And when he had spoken such words unto me, I set my face toward the ground, and I became dumb.
+> Daniel 10:16  And, behold, [one] like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
+> Daniel 10:17  For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
+> Daniel 10:18  Then there came again and touched me [one] like the appearance of a man, and he strengthened me,
+> Daniel 10:19  And said, O man greatly beloved, fear not: peace [be] unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.
+> Daniel 10:20  Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
+> Daniel 10:21  But I will shew thee that which is noted in the scripture of truth: and [there is] none that holdeth with me in these things, but Michael your prince.
+
+### Daniel 12 (Complete Chapter: Sealed Book, Oath Scene, Time Periods)
+
+> Daniel 12:1  And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation [even] to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
+> Daniel 12:2  And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame [and] everlasting contempt.
+> Daniel 12:3  And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
+> Daniel 12:4  But thou, O Daniel, shut up the words, and seal the book, [even] to the time of the end: many shall run to and fro, and knowledge shall be increased.
+> Daniel 12:5  Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.
+> Daniel 12:6  And [one] said to the man clothed in linen, which [was] upon the waters of the river, How long [shall it be to] the end of these wonders?
+> Daniel 12:7  And I heard the man clothed in linen, which [was] upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that [it shall be] for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these [things] shall be finished.
+> Daniel 12:8  And I heard, but I understood not: then said I, O my Lord, what [shall be] the end of these [things]?
+> Daniel 12:9  And he said, Go thy way, Daniel: for the words [are] closed up and sealed till the time of the end.
+> Daniel 12:10  Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.
+> Daniel 12:11  And from the time [that] the daily [sacrifice] shall be taken away, and the abomination that maketh desolate set up, [there shall be] a thousand two hundred and ninety days.
+> Daniel 12:12  Blessed [is] he that waiteth, and cometh to the thousand three hundred and five and thirty days.
+> Daniel 12:13  But go thou thy way till the end [be]: for thou shalt rest, and stand in thy lot at the end of the days.
+
+---
+
+## Primary Verses: Revelation
+
+### Revelation 1 (Complete Chapter: Temporal Formula, Christological Merger)
+
+> Revelation 1:1  The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified [it] by his angel unto his servant John:
+> Revelation 1:2  Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.
+> Revelation 1:3  Blessed [is] he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time [is] at hand.
+> Revelation 1:4  John to the seven churches which are in Asia: Grace [be] unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;
+> Revelation 1:5  And from Jesus Christ, [who is] the faithful witness, [and] the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
+> Revelation 1:6  And hath made us kings and priests unto God and his Father; to him [be] glory and dominion for ever and ever. Amen.
+> Revelation 1:7  Behold, he cometh with clouds; and every eye shall see him, and they [also] which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
+> Revelation 1:8  I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
+> Revelation 1:9  I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.
+> Revelation 1:10  I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,
+> Revelation 1:11  Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send [it] unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.
+> Revelation 1:12  And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;
+> Revelation 1:13  And in the midst of the seven candlesticks [one] like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.
+> Revelation 1:14  His head and [his] hairs [were] white like wool, as white as snow; and his eyes [were] as a flame of fire;
+> Revelation 1:15  And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
+> Revelation 1:16  And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance [was] as the sun shineth in his strength.
+> Revelation 1:17  And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:
+> Revelation 1:18  [I am] he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.
+> Revelation 1:19  Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;
+> Revelation 1:20  The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
+
+### Revelation 4 (Complete Chapter: Throne Scene)
+
+> Revelation 4:1  After this I looked, and, behold, a door [was] opened in heaven: and the first voice which I heard [was] as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.
+> Revelation 4:2  And immediately I was in the spirit: and, behold, a throne was set in heaven, and [one] sat on the throne.
+> Revelation 4:3  And he that sat was to look upon like a jasper and a sardine stone: and [there was] a rainbow round about the throne, in sight like unto an emerald.
+> Revelation 4:4  And round about the throne [were] four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
+> Revelation 4:5  And out of the throne proceeded lightnings and thunderings and voices: and [there were] seven lamps of fire burning before the throne, which are the seven Spirits of God.
+> Revelation 4:6  And before the throne [there was] a sea of glass like unto crystal: and in the midst of the throne, and round about the throne, [were] four beasts full of eyes before and behind.
+> Revelation 4:7  And the first beast [was] like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast [was] like a flying eagle.
+> Revelation 4:8  And the four beasts had each of them six wings about [him]; and [they were] full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
+> Revelation 4:9  And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,
+> Revelation 4:10  The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
+> Revelation 4:11  Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
+
+### Revelation 5 (Complete Chapter: Sealed Scroll, Lamb Slain)
+
+> Revelation 5:1  And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.
+> Revelation 5:2  And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?
+> Revelation 5:3  And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.
+> Revelation 5:4  And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.
+> Revelation 5:5  And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
+> Revelation 5:6  And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.
+> Revelation 5:7  And he came and took the book out of the right hand of him that sat upon the throne.
+> Revelation 5:8  And when he had taken the book, the four beasts and four [and] twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
+> Revelation 5:9  And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
+> Revelation 5:10  And hast made us unto our God kings and priests: and we shall reign on the earth.
+> Revelation 5:11  And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
+> Revelation 5:12  Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
+> Revelation 5:13  And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, [be] unto him that sitteth upon the throne, and unto the Lamb for ever and ever.
+> Revelation 5:14  And the four beasts said, Amen. And the four [and] twenty elders fell down and worshipped him that liveth for ever and ever.
+
+### Revelation 6 (Complete Chapter: Seals Opened, Olivet-Seals Correspondence)
+
+> Revelation 6:1  And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
+> Revelation 6:2  And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.
+> Revelation 6:3  And when he had opened the second seal, I heard the second beast say, Come and see.
+> Revelation 6:4  And there went out another horse [that was] red: and [power] was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword.
+> Revelation 6:5  And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.
+> Revelation 6:6  And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and [see] thou hurt not the oil and the wine.
+> Revelation 6:7  And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+> Revelation 6:8  And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
+> Revelation 6:9  And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:
+> Revelation 6:10  And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
+> Revelation 6:11  And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they [were], should be fulfilled.
+> Revelation 6:12  And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;
+> Revelation 6:13  And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
+> Revelation 6:14  And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
+> Revelation 6:15  And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
+> Revelation 6:16  And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:
+> Revelation 6:17  For the great day of his wrath is come; and who shall be able to stand?
+
+### Revelation 8:1-5 (Seventh Seal, Golden Censer)
+
+> Revelation 8:1  And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
+> Revelation 8:2  And I saw the seven angels which stood before God; and to them were given seven trumpets.
+> Revelation 8:3  And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer [it] with the prayers of all saints upon the golden altar which was before the throne.
+> Revelation 8:4  And the smoke of the incense, [which came] with the prayers of the saints, ascended up before God out of the angel's hand.
+> Revelation 8:5  And the angel took the censer, and filled it with fire of the altar, and cast [it] into the earth: and there were voices, and thunderings, and lightnings, and an earthquake.
+
+### Revelation 9:13-15 (Golden Altar, Sixth Trumpet)
+
+> Revelation 9:13  And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,
+> Revelation 9:14  Saying to the sixth angel which had the trumpet, Loose the four angels which are bound in the great river Euphrates.
+> Revelation 9:15  And the four angels were loosed, which were prepared for an hour, and a day, and a month, and a year, for to slay the third part of men.
+
+### Revelation 10 (Complete Chapter: Oath Scene, Little Book)
+
+> Revelation 10:1  And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow [was] upon his head, and his face [was] as it were the sun, and his feet as pillars of fire:
+> Revelation 10:2  And he had in his hand a little book open: and he set his right foot upon the sea, and [his] left [foot] on the earth,
+> Revelation 10:3  And cried with a loud voice, as [when] a lion roareth: and when he had cried, seven thunders uttered their voices.
+> Revelation 10:4  And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.
+> Revelation 10:5  And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,
+> Revelation 10:6  And sware by him that liveth for ever and ever, who created heaven, and the things that therein are, and the earth, and the things that therein are, and the sea, and the things which are therein, that there should be time no longer:
+> Revelation 10:7  But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.
+> Revelation 10:8  And the voice which I heard from heaven spake unto me again, and said, Go [and] take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
+> Revelation 10:9  And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take [it], and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
+> Revelation 10:10  And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.
+> Revelation 10:11  And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
+
+### Revelation 11:1-3 (Temple Measured, 42 Months, 1260 Days)
+
+> Revelation 11:1  And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.
+> Revelation 11:2  But the court which is without the temple leave out, and measure it not; for it is given unto the Gentiles: and the holy city shall they tread under foot forty [and] two months.
+> Revelation 11:3  And I will give [power] unto my two witnesses, and they shall prophesy a thousand two hundred [and] threescore days, clothed in sackcloth.
+
+### Revelation 11:15-19 (Seventh Trumpet, Kingdom, Ark Revealed)
+
+> Revelation 11:15  And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become [the kingdoms] of our Lord, and of his Christ; and he shall reign for ever and ever.
+> Revelation 11:16  And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,
+> Revelation 11:17  Saying, We give thee thanks, O Lord God Almighty, which art, and wast, and art to come; because thou hast taken to thee thy great power, and hast reigned.
+> Revelation 11:18  And the nations were angry, and thy wrath is come, and the time of the dead, that they should be judged, and that thou shouldest give reward unto thy servants the prophets, and to the saints, and them that fear thy name, small and great; and shouldest destroy them which destroy the earth.
+> Revelation 11:19  And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.
+
+### Revelation 12 (Complete Chapter: Dragon, Woman, War)
+
+> Revelation 12:1  And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
+> Revelation 12:2  And she being with child cried, travailing in birth, and pained to be delivered.
+> Revelation 12:3  And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
+> Revelation 12:4  And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.
+> Revelation 12:5  And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and [to] his throne.
+> Revelation 12:6  And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred [and] threescore days.
+> Revelation 12:7  And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
+> Revelation 12:8  And prevailed not; neither was their place found any more in heaven.
+> Revelation 12:9  And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
+> Revelation 12:10  And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.
+> Revelation 12:11  And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
+> Revelation 12:12  Therefore rejoice, [ye] heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
+> Revelation 12:13  And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man [child].
+> Revelation 12:14  And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
+> Revelation 12:15  And the serpent cast out of his mouth water as a flood after the woman, that he might cause her to be carried away of the flood.
+> Revelation 12:16  And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
+> Revelation 12:17  And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
+
+### Revelation 13 (Complete Chapter: Composite Beast, Blasphemy, Authority, Mark)
+
+> Revelation 13:1  And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.
+> Revelation 13:2  And the beast which I saw was like unto a leopard, and his feet were as [the feet] of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
+> Revelation 13:3  And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.
+> Revelation 13:4  And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who [is] like unto the beast? who is able to make war with him?
+> Revelation 13:5  And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty [and] two months.
+> Revelation 13:6  And he opened his mouth in blasphemy against God, to blaspheme his name, and his tabernacle, and them that dwell in heaven.
+> Revelation 13:7  And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.
+> Revelation 13:8  And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
+> Revelation 13:9  If any man have an ear, let him hear.
+> Revelation 13:10  He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
+> Revelation 13:11  And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.
+> Revelation 13:12  And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.
+> Revelation 13:13  And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
+> Revelation 13:14  And deceiveth them that dwell on the earth by [the means of] those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.
+> Revelation 13:15  And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.
+> Revelation 13:16  And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
+> Revelation 13:17  And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
+> Revelation 13:18  Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number [is] Six hundred threescore [and] six.
+
+### Revelation 14 (Complete Chapter: Three Angels, Harvest Son of Man)
+
+> Revelation 14:1  And I looked, and, lo, a Lamb stood on the mount Sion, and with him an hundred forty [and] four thousand, having his Father's name written in their foreheads.
+> Revelation 14:2  And I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps:
+> Revelation 14:3  And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred [and] forty [and] four thousand, which were redeemed from the earth.
+> Revelation 14:4  These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, [being] the firstfruits unto God and to the Lamb.
+> Revelation 14:5  And in their mouth was found no guile: for they are without fault before the throne of God.
+> Revelation 14:6  And I saw another angel fly in the midst of heaven, having the everlasting gospel to preach unto them that dwell on the earth, and to every nation, and kindred, and tongue, and people,
+> Revelation 14:7  Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
+> Revelation 14:8  And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
+> Revelation 14:9  And the third angel followed them, saying with a loud voice, If any man worship the beast and his image, and receive [his] mark in his forehead, or in his hand,
+> Revelation 14:10  The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
+> Revelation 14:11  And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
+> Revelation 14:12  Here is the patience of the saints: here [are] they that keep the commandments of God, and the faith of Jesus.
+> Revelation 14:13  And I heard a voice from heaven saying unto me, Write, Blessed [are] the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.
+> Revelation 14:14  And I looked, and behold a white cloud, and upon the cloud [one] sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
+> Revelation 14:15  And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.
+> Revelation 14:16  And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
+> Revelation 14:17  And another angel came out of the temple which is in heaven, he also having a sharp sickle.
+> Revelation 14:18  And another angel came out from the altar, which had power over fire; and cried with a loud cry to him that had the sharp sickle, saying, Thrust in thy sharp sickle, and gather the clusters of the vine of the earth; for her grapes are fully ripe.
+> Revelation 14:19  And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast [it] into the great winepress of the wrath of God.
+> Revelation 14:20  And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand [and] six hundred furlongs.
+
+### Revelation 15 (Complete Chapter: Song of Moses, Temple Opened)
+
+> Revelation 15:1  And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.
+> Revelation 15:2  And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, [and] over the number of his name, stand on the sea of glass, having the harps of God.
+> Revelation 15:3  And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints.
+> Revelation 15:4  Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest.
+> Revelation 15:5  And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
+> Revelation 15:6  And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
+> Revelation 15:7  And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.
+> Revelation 15:8  And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.
+
+### Revelation 16:5-7 (Vindication Declarations)
+
+> Revelation 16:5  And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.
+> Revelation 16:6  For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
+> Revelation 16:7  And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous [are] thy judgments.
+
+### Revelation 17 (Complete Chapter: Beast That Was, Is Not)
+
+> Revelation 17:1  And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:
+> Revelation 17:2  With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication.
+> Revelation 17:3  So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
+> Revelation 17:4  And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
+> Revelation 17:5  And upon her forehead [was] a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH.
+> Revelation 17:6  And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration.
+> Revelation 17:7  And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns.
+> Revelation 17:8  The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.
+> Revelation 17:9  And here [is] the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
+> Revelation 17:10  And there are seven kings: five are fallen, and one is, [and] the other is not yet come; and when he cometh, he must continue a short space.
+> Revelation 17:11  And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition.
+> Revelation 17:12  And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast.
+> Revelation 17:13  These have one mind, and shall give their power and strength unto the beast.
+> Revelation 17:14  These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him [are] called, and chosen, and faithful.
+> Revelation 17:15  And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.
+> Revelation 17:16  And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire.
+> Revelation 17:17  For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled.
+> Revelation 17:18  And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
+
+### Revelation 19:1-10 (Vindication, Marriage of Lamb)
+
+> Revelation 19:1  And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:
+> Revelation 19:2  For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
+> Revelation 19:3  And again they said, Alleluia. And her smoke rose up for ever and ever.
+> Revelation 19:4  And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.
+> Revelation 19:5  And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great.
+> Revelation 19:6  And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.
+> Revelation 19:7  Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.
+> Revelation 19:8  And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
+> Revelation 19:9  And he saith unto me, Write, Blessed [are] they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
+> Revelation 19:10  And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
+
+### Revelation 20 (Complete Chapter: Resurrection, Great White Throne)
+
+> Revelation 20:1  And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
+> Revelation 20:2  And he laid hold on the dragon, that old serpent, which is the Devil, and Satan, and bound him a thousand years,
+> Revelation 20:3  And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
+> Revelation 20:4  And I saw thrones, and they sat upon them, and judgment was given unto them: and [I saw] the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received [his] mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
+> Revelation 20:5  But the rest of the dead lived not again until the thousand years were finished. This [is] the first resurrection.
+> Revelation 20:6  Blessed and holy [is] he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
+> Revelation 20:7  And when the thousand years are expired, Satan shall be loosed out of his prison,
+> Revelation 20:8  And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom [is] as the sand of the sea.
+> Revelation 20:9  And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
+> Revelation 20:10  And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.
+> Revelation 20:11  And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
+> Revelation 20:12  And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is [the book] of life: and the dead were judged out of those things which were written in the books, according to their works.
+> Revelation 20:13  And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
+> Revelation 20:14  And death and hell were cast into the lake of fire. This is the second death.
+> Revelation 20:15  And whosoever was not found written in the book of life was cast into the lake of fire.
+
+### Revelation 22 (Complete Chapter: Seal Not, Dei Genesthai Inclusio)
+
+> Revelation 22:1  And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.
+> Revelation 22:2  In the midst of the street of it, and on either side of the river, [was there] the tree of life, which bare twelve [manner of] fruits, [and] yielded her fruit every month: and the leaves of the tree [were] for the healing of the nations.
+> Revelation 22:3  And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:
+> Revelation 22:4  And they shall see his face; and his name [shall be] in their foreheads.
+> Revelation 22:5  And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
+> Revelation 22:6  And he said unto me, These sayings [are] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.
+> Revelation 22:7  Behold, I come quickly: blessed [is] he that keepeth the sayings of the prophecy of this book.
+> Revelation 22:8  And I John saw these things, and heard [them]. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.
+> Revelation 22:9  Then saith he unto me, See [thou do it] not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
+> Revelation 22:10  And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.
+> Revelation 22:11  He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.
+> Revelation 22:12  And, behold, I come quickly; and my reward [is] with me, to give every man according as his work shall be.
+> Revelation 22:13  I am Alpha and Omega, the beginning and the end, the first and the last.
+> Revelation 22:14  Blessed [are] they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
+> Revelation 22:15  For without [are] dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.
+> Revelation 22:16  I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, [and] the bright and morning star.
+> Revelation 22:17  And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.
+> Revelation 22:18  For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
+> Revelation 22:19  And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and [from] the things which are written in this book.
+> Revelation 22:20  He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
+> Revelation 22:21  The grace of our Lord Jesus Christ [be] with you all. Amen.
+
+---
+
+## Primary Verses: Other NT/OT
+
+### 2 Thessalonians 2:1-12 (Man of Sin)
+
+> 2 Thessalonians 2:1  Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and [by] our gathering together unto him,
+> 2 Thessalonians 2:2  That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
+> 2 Thessalonians 2:3  Let no man deceive you by any means: for [that day shall not come], except there come a falling away first, and that man of sin be revealed, the son of perdition;
+> 2 Thessalonians 2:4  Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.
+> 2 Thessalonians 2:5  Remember ye not, that, when I was yet with you, I told you these things?
+> 2 Thessalonians 2:6  And now ye know what withholdeth that he might be revealed in his time.
+> 2 Thessalonians 2:7  For the mystery of iniquity doth already work: only he who now letteth [will let], until he be taken out of the way.
+> 2 Thessalonians 2:8  And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:
+> 2 Thessalonians 2:9  [Even him], whose coming is after the working of Satan with all power and signs and lying wonders,
+> 2 Thessalonians 2:10  And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
+> 2 Thessalonians 2:11  And for this cause God shall send them strong delusion, that they should believe a lie:
+> 2 Thessalonians 2:12  That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
+> 2 Thessalonians 2:13  But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
+> 2 Thessalonians 2:14  Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
+> 2 Thessalonians 2:15  Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
+> 2 Thessalonians 2:16  Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given [us] everlasting consolation and good hope through grace,
+> 2 Thessalonians 2:17  Comfort your hearts, and stablish you in every good word and work.
+
+### Matthew 24 (Olivet Discourse)
+
+> Matthew 24:1  And Jesus went out, and departed from the temple: and his disciples came to [him] for to shew him the buildings of the temple.
+> Matthew 24:2  And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
+> Matthew 24:3  And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what [shall be] the sign of thy coming, and of the end of the world?
+> Matthew 24:4  And Jesus answered and said unto them, Take heed that no man deceive you.
+> Matthew 24:5  For many shall come in my name, saying, I am Christ; and shall deceive many.
+> Matthew 24:6  And ye shall hear of wars and rumours of wars: see that ye be not troubled: for all [these things] must come to pass, but the end is not yet.
+> Matthew 24:7  For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
+> Matthew 24:8  All these [are] the beginning of sorrows.
+> Matthew 24:9  Then shall they deliver you up to be afflicted, and shall kill you: and ye shall be hated of all nations for my name's sake.
+> Matthew 24:10  And then shall many be offended, and shall betray one another, and shall hate one another.
+> Matthew 24:11  And many false prophets shall rise, and shall deceive many.
+> Matthew 24:12  And because iniquity shall abound, the love of many shall wax cold.
+> Matthew 24:13  But he that shall endure unto the end, the same shall be saved.
+> Matthew 24:14  And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
+> Matthew 24:15  When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
+> Matthew 24:16  Then let them which be in Judaea flee into the mountains:
+> Matthew 24:17  Let him which is on the housetop not come down to take any thing out of his house:
+> Matthew 24:18  Neither let him which is in the field return back to take his clothes.
+> Matthew 24:19  And woe unto them that are with child, and to them that give suck in those days!
+> Matthew 24:20  But pray ye that your flight be not in the winter, neither on the sabbath day:
+> Matthew 24:21  For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
+> Matthew 24:22  And except those days should be shortened, there should no flesh be saved: but for the elect's sake those days shall be shortened.
+> Matthew 24:23  Then if any man shall say unto you, Lo, here [is] Christ, or there; believe [it] not.
+> Matthew 24:24  For there shall arise false Christs, and false prophets, and shall shew great signs and wonders; insomuch that, if [it were] possible, they shall deceive the very elect.
+> Matthew 24:25  Behold, I have told you before.
+> Matthew 24:26  Wherefore if they shall say unto you, Behold, he is in the desert; go not forth: behold, [he is] in the secret chambers; believe [it] not.
+> Matthew 24:27  For as the lightning cometh out of the east, and shineth even unto the west; so shall also the coming of the Son of man be.
+> Matthew 24:28  For wheresoever the carcase is, there will the eagles be gathered together.
+> Matthew 24:29  Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
+> Matthew 24:30  And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.
+> Matthew 24:31  And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
+> Matthew 24:32  Now learn a parable of the fig tree; When his branch is yet tender, and putteth forth leaves, ye know that summer [is] nigh:
+> Matthew 24:33  So likewise ye, when ye shall see all these things, know that it is near, [even] at the doors.
+> Matthew 24:34  Verily I say unto you, This generation shall not pass, till all these things be fulfilled.
+> Matthew 24:35  Heaven and earth shall pass away, but my words shall not pass away.
+> Matthew 24:36  But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
+> Matthew 24:37  But as the days of Noe [were], so shall also the coming of the Son of man be.
+> Matthew 24:38  For as in the days that were before the flood they were eating and drinking, marrying and giving in marriage, until the day that Noe entered into the ark,
+> Matthew 24:39  And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
+> Matthew 24:40  Then shall two be in the field; the one shall be taken, and the other left.
+> Matthew 24:41  Two [women shall be] grinding at the mill; the one shall be taken, and the other left.
+> Matthew 24:42  Watch therefore: for ye know not what hour your Lord doth come.
+> Matthew 24:43  But know this, that if the goodman of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to be broken up.
+> Matthew 24:44  Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
+> Matthew 24:45  Who then is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?
+> Matthew 24:46  Blessed [is] that servant, whom his lord when he cometh shall find so doing.
+> Matthew 24:47  Verily I say unto you, That he shall make him ruler over all his goods.
+> Matthew 24:48  But and if that evil servant shall say in his heart, My lord delayeth his coming;
+> Matthew 24:49  And shall begin to smite [his] fellowservants, and to eat and drink with the drunken;
+> Matthew 24:50  The lord of that servant shall come in a day when he looketh not for [him], and in an hour that he is not aware of,
+> Matthew 24:51  And shall cut him asunder, and appoint [him] his portion with the hypocrites: there shall be weeping and gnashing of teeth.
+
+### Exodus 20:1-17 (Ten Commandments; v.11 Creation Catalogue)
+
+> Exodus 20:1  And God spake all these words, saying,
+> Exodus 20:2  I [am] the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.
+> Exodus 20:3  Thou shalt have no other gods before me.
+> Exodus 20:4  Thou shalt not make unto thee any graven image, or any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the water under the earth:
+> Exodus 20:5  Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me;
+> Exodus 20:6  And shewing mercy unto thousands of them that love me, and keep my commandments.
+> Exodus 20:7  Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
+> Exodus 20:8  Remember the sabbath day, to keep it holy.
+> Exodus 20:9  Six days shalt thou labour, and do all thy work:
+> Exodus 20:10  But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that [is] within thy gates:
+> Exodus 20:11  For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
+> Exodus 20:12  Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
+> Exodus 20:13  Thou shalt not kill.
+> Exodus 20:14  Thou shalt not commit adultery.
+> Exodus 20:15  Thou shalt not steal.
+> Exodus 20:16  Thou shalt not bear false witness against thy neighbour.
+> Exodus 20:17  Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that [is] thy neighbour's.
+> Exodus 20:18  And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw [it], they removed, and stood afar off.
+> Exodus 20:19  And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
+> Exodus 20:20  And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.
+> Exodus 20:21  And the people stood afar off, and Moses drew near unto the thick darkness where God [was].
+> Exodus 20:22  And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.
+> Exodus 20:23  Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.
+> Exodus 20:24  An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.
+> Exodus 20:25  And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.
+> Exodus 20:26  Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.
+
+### Leviticus 16 (Day of Atonement Ritual)
+
+> Leviticus 16:1  And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;
+> Leviticus 16:2  And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy [place] within the vail before the mercy seat, which [is] upon the ark; that he die not: for I will appear in the cloud upon the mercy seat.
+> Leviticus 16:3  Thus shall Aaron come into the holy [place]: with a young bullock for a sin offering, and a ram for a burnt offering.
+> Leviticus 16:4  He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these [are] holy garments; therefore shall he wash his flesh in water, and [so] put them on.
+> Leviticus 16:5  And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.
+> Leviticus 16:6  And Aaron shall offer his bullock of the sin offering, which [is] for himself, and make an atonement for himself, and for his house.
+> Leviticus 16:7  And he shall take the two goats, and present them before the LORD [at] the door of the tabernacle of the congregation.
+> Leviticus 16:8  And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.
+> Leviticus 16:9  And Aaron shall bring the goat upon which the LORD'S lot fell, and offer him [for] a sin offering.
+> Leviticus 16:10  But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, [and] to let him go for a scapegoat into the wilderness.
+> Leviticus 16:11  And Aaron shall bring the bullock of the sin offering, which [is] for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which [is] for himself:
+> Leviticus 16:12  And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring [it] within the vail:
+> Leviticus 16:13  And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that [is] upon the testimony, that he die not:
+> Leviticus 16:14  And he shall take of the blood of the bullock, and sprinkle [it] with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.
+> Leviticus 16:15  Then shall he kill the goat of the sin offering, that [is] for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:
+> Leviticus 16:16  And he shall make an atonement for the holy [place], because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
+> Leviticus 16:17  And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy [place], until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.
+> Leviticus 16:18  And he shall go out unto the altar that [is] before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put [it] upon the horns of the altar round about.
+> Leviticus 16:19  And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.
+> Leviticus 16:20  And when he hath made an end of reconciling the holy [place], and the tabernacle of the congregation, and the altar, he shall bring the live goat:
+> Leviticus 16:21  And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send [him] away by the hand of a fit man into the wilderness:
+> Leviticus 16:22  And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.
+> Leviticus 16:23  And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy [place], and shall leave them there:
+> Leviticus 16:24  And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.
+> Leviticus 16:25  And the fat of the sin offering shall he burn upon the altar.
+> Leviticus 16:26  And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
+> Leviticus 16:27  And the bullock [for] the sin offering, and the goat [for] the sin offering, whose blood was brought in to make atonement in the holy [place], shall [one] carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.
+> Leviticus 16:28  And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.
+> Leviticus 16:29  And [this] shall be a statute for ever unto you: [that] in the seventh month, on the tenth [day] of the month, ye shall afflict your souls, and do no work at all, [whether it be] one of your own country, or a stranger that sojourneth among you:
+> Leviticus 16:30  For on that day shall [the priest] make an atonement for you, to cleanse you, [that] ye may be clean from all your sins before the LORD.
+> Leviticus 16:31  It [shall be] a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
+> Leviticus 16:32  And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest's office in his father's stead, shall make the atonement, and shall put on the linen clothes, [even] the holy garments:
+> Leviticus 16:33  And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation.
+> Leviticus 16:34  And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses.

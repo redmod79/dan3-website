@@ -1,0 +1,658 @@
+site_name: "Daniel: Three Views Compared"
+site_description: A 31-study comparative investigation of Daniel's prophecies through Historicist, Preterist, and Futurist lenses. 399 evidence items classified.
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Studies:
+
+    # ── Foundation ──
+    - "Foundation":
+
+      - "00 -- Methodology & Evidence Framework":
+        - studies/dan3-00-methodology-evidence-framework/CONCLUSION.md
+        - Analysis: studies/dan3-00-methodology-evidence-framework/03-analysis.md
+        - Verses: studies/dan3-00-methodology-evidence-framework/02-verses.md
+        - Word Studies: studies/dan3-00-methodology-evidence-framework/04-word-studies.md
+        - Topics: studies/dan3-00-methodology-evidence-framework/01-topics.md
+        - Research Scope: studies/dan3-00-methodology-evidence-framework/PROMPT.md
+        - References: studies/dan3-00-methodology-evidence-framework/00-references.md
+        - Custom Instructions: studies/dan3-00-methodology-evidence-framework/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-00-methodology-evidence-framework/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-00-methodology-evidence-framework/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-00-methodology-evidence-framework/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-00-methodology-evidence-framework/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-00-methodology-evidence-framework/raw-data/strongs-lookups.md
+      - "01 -- Literary Architecture of Daniel":
+        - studies/dan3-01-literary-architecture-daniel/CONCLUSION.md
+        - Analysis: studies/dan3-01-literary-architecture-daniel/03-analysis.md
+        - Verses: studies/dan3-01-literary-architecture-daniel/02-verses.md
+        - Word Studies: studies/dan3-01-literary-architecture-daniel/04-word-studies.md
+        - Topics: studies/dan3-01-literary-architecture-daniel/01-topics.md
+        - Research Scope: studies/dan3-01-literary-architecture-daniel/PROMPT.md
+        - References: studies/dan3-01-literary-architecture-daniel/00-references.md
+        - Custom Instructions: studies/dan3-01-literary-architecture-daniel/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-01-literary-architecture-daniel/raw-data/concept-context.md
+          - "Hebrew Parsing": studies/dan3-01-literary-architecture-daniel/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-01-literary-architecture-daniel/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-01-literary-architecture-daniel/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-01-literary-architecture-daniel/raw-data/strongs-lookups.md
+      - "02 -- Historicity & Dating Evidence":
+        - studies/dan3-02-historicity-dating-evidence/CONCLUSION.md
+        - Analysis: studies/dan3-02-historicity-dating-evidence/03-analysis.md
+        - Verses: studies/dan3-02-historicity-dating-evidence/02-verses.md
+        - Word Studies: studies/dan3-02-historicity-dating-evidence/04-word-studies.md
+        - Topics: studies/dan3-02-historicity-dating-evidence/01-topics.md
+        - Research Scope: studies/dan3-02-historicity-dating-evidence/PROMPT.md
+        - References: studies/dan3-02-historicity-dating-evidence/00-references.md
+        - Custom Instructions: studies/dan3-02-historicity-dating-evidence/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-02-historicity-dating-evidence/raw-data/concept-context.md
+          - "Hebrew Parsing": studies/dan3-02-historicity-dating-evidence/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-02-historicity-dating-evidence/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-02-historicity-dating-evidence/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-02-historicity-dating-evidence/raw-data/strongs-lookups.md
+
+    # ── Daniel 2 -- The Image ──
+    - "Daniel 2 -- The Image":
+
+      - "03 -- HIST: Daniel 2":
+        - studies/dan3-03-HIST-daniel-2/CONCLUSION.md
+        - Analysis: studies/dan3-03-HIST-daniel-2/03-analysis.md
+        - Verses: studies/dan3-03-HIST-daniel-2/02-verses.md
+        - Word Studies: studies/dan3-03-HIST-daniel-2/04-word-studies.md
+        - Topics: studies/dan3-03-HIST-daniel-2/01-topics.md
+        - Research Scope: studies/dan3-03-HIST-daniel-2/PROMPT.md
+        - References: studies/dan3-03-HIST-daniel-2/00-references.md
+        - HIST Validation: studies/dan3-03-HIST-daniel-2/hist-validation.md
+        - HIST Revalidation: studies/dan3-03-HIST-daniel-2/hist-revalidation.md
+        - Custom Instructions: studies/dan3-03-HIST-daniel-2/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-03-HIST-daniel-2/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-03-HIST-daniel-2/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-03-HIST-daniel-2/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-03-HIST-daniel-2/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-03-HIST-daniel-2/raw-data/strongs-lookups.md
+      - "04 -- PRET: Daniel 2":
+        - studies/dan3-04-PRET-daniel-2/CONCLUSION.md
+        - Analysis: studies/dan3-04-PRET-daniel-2/03-analysis.md
+        - Verses: studies/dan3-04-PRET-daniel-2/02-verses.md
+        - Word Studies: studies/dan3-04-PRET-daniel-2/04-word-studies.md
+        - Topics: studies/dan3-04-PRET-daniel-2/01-topics.md
+        - Research Scope: studies/dan3-04-PRET-daniel-2/PROMPT.md
+        - References: studies/dan3-04-PRET-daniel-2/00-references.md
+        - PRET Validation: studies/dan3-04-PRET-daniel-2/pret-validation.md
+        - Custom Instructions: studies/dan3-04-PRET-daniel-2/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-04-PRET-daniel-2/raw-data/concept-context.md
+          - "Greek Parsing": studies/dan3-04-PRET-daniel-2/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-04-PRET-daniel-2/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-04-PRET-daniel-2/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-04-PRET-daniel-2/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-04-PRET-daniel-2/raw-data/strongs-lookups.md
+      - "05 -- FUT: Daniel 2":
+        - studies/dan3-05-FUT-daniel-2/CONCLUSION.md
+        - Analysis: studies/dan3-05-FUT-daniel-2/03-analysis.md
+        - Verses: studies/dan3-05-FUT-daniel-2/02-verses.md
+        - Word Studies: studies/dan3-05-FUT-daniel-2/04-word-studies.md
+        - Topics: studies/dan3-05-FUT-daniel-2/01-topics.md
+        - Research Scope: studies/dan3-05-FUT-daniel-2/PROMPT.md
+        - References: studies/dan3-05-FUT-daniel-2/00-references.md
+        - FUT Validation: studies/dan3-05-FUT-daniel-2/fut-validation.md
+        - Custom Instructions: studies/dan3-05-FUT-daniel-2/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-05-FUT-daniel-2/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-05-FUT-daniel-2/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-05-FUT-daniel-2/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-05-FUT-daniel-2/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-05-FUT-daniel-2/raw-data/strongs-lookups.md
+      - "06 -- COMPARE: Daniel 2":
+        - studies/dan3-06-COMPARE-daniel-2/CONCLUSION.md
+        - Analysis: studies/dan3-06-COMPARE-daniel-2/03-analysis.md
+        - Verses: studies/dan3-06-COMPARE-daniel-2/02-verses.md
+        - Word Studies: studies/dan3-06-COMPARE-daniel-2/04-word-studies.md
+        - Topics: studies/dan3-06-COMPARE-daniel-2/01-topics.md
+        - Research Scope: studies/dan3-06-COMPARE-daniel-2/PROMPT.md
+        - References: studies/dan3-06-COMPARE-daniel-2/00-references.md
+        - HIST Validation: studies/dan3-06-COMPARE-daniel-2/hist-validation.md
+        - PRET Validation: studies/dan3-06-COMPARE-daniel-2/pret-validation.md
+        - FUT Validation: studies/dan3-06-COMPARE-daniel-2/fut-validation.md
+        - HIST Revalidation: studies/dan3-06-COMPARE-daniel-2/hist-revalidation.md
+        - Custom Instructions: studies/dan3-06-COMPARE-daniel-2/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-06-COMPARE-daniel-2/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-06-COMPARE-daniel-2/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-06-COMPARE-daniel-2/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-06-COMPARE-daniel-2/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-06-COMPARE-daniel-2/raw-data/strongs-lookups.md
+
+    # ── Daniel 7 -- The Beasts ──
+    - "Daniel 7 -- The Beasts":
+
+      - "07 -- HIST: Daniel 7":
+        - studies/dan3-07-HIST-daniel-7/CONCLUSION.md
+        - Analysis: studies/dan3-07-HIST-daniel-7/03-analysis.md
+        - Verses: studies/dan3-07-HIST-daniel-7/02-verses.md
+        - Word Studies: studies/dan3-07-HIST-daniel-7/04-word-studies.md
+        - Topics: studies/dan3-07-HIST-daniel-7/01-topics.md
+        - Research Scope: studies/dan3-07-HIST-daniel-7/PROMPT.md
+        - References: studies/dan3-07-HIST-daniel-7/00-references.md
+        - HIST Validation: studies/dan3-07-HIST-daniel-7/hist-validation.md
+        - HIST Revalidation: studies/dan3-07-HIST-daniel-7/hist-revalidation.md
+        - Custom Instructions: studies/dan3-07-HIST-daniel-7/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-07-HIST-daniel-7/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-07-HIST-daniel-7/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-07-HIST-daniel-7/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-07-HIST-daniel-7/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-07-HIST-daniel-7/raw-data/strongs-lookups.md
+      - "08 -- PRET: Daniel 7":
+        - studies/dan3-08-PRET-daniel-7/CONCLUSION.md
+        - Analysis: studies/dan3-08-PRET-daniel-7/03-analysis.md
+        - Verses: studies/dan3-08-PRET-daniel-7/02-verses.md
+        - Word Studies: studies/dan3-08-PRET-daniel-7/04-word-studies.md
+        - Topics: studies/dan3-08-PRET-daniel-7/01-topics.md
+        - Research Scope: studies/dan3-08-PRET-daniel-7/PROMPT.md
+        - References: studies/dan3-08-PRET-daniel-7/00-references.md
+        - PRET Validation: studies/dan3-08-PRET-daniel-7/pret-validation.md
+        - Custom Instructions: studies/dan3-08-PRET-daniel-7/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-08-PRET-daniel-7/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-08-PRET-daniel-7/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-08-PRET-daniel-7/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-08-PRET-daniel-7/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-08-PRET-daniel-7/raw-data/strongs-lookups.md
+      - "09 -- FUT: Daniel 7":
+        - studies/dan3-09-FUT-daniel-7/CONCLUSION.md
+        - Analysis: studies/dan3-09-FUT-daniel-7/03-analysis.md
+        - Verses: studies/dan3-09-FUT-daniel-7/02-verses.md
+        - Word Studies: studies/dan3-09-FUT-daniel-7/04-word-studies.md
+        - Topics: studies/dan3-09-FUT-daniel-7/01-topics.md
+        - Research Scope: studies/dan3-09-FUT-daniel-7/PROMPT.md
+        - References: studies/dan3-09-FUT-daniel-7/00-references.md
+        - FUT Validation: studies/dan3-09-FUT-daniel-7/fut-validation.md
+        - Custom Instructions: studies/dan3-09-FUT-daniel-7/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-09-FUT-daniel-7/raw-data/concept-context.md
+          - "Greek Parsing": studies/dan3-09-FUT-daniel-7/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-09-FUT-daniel-7/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-09-FUT-daniel-7/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-09-FUT-daniel-7/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-09-FUT-daniel-7/raw-data/strongs-lookups.md
+      - "10 -- COMPARE: Daniel 7":
+        - studies/dan3-10-COMPARE-daniel-7/CONCLUSION.md
+        - Analysis: studies/dan3-10-COMPARE-daniel-7/03-analysis.md
+        - Verses: studies/dan3-10-COMPARE-daniel-7/02-verses.md
+        - Word Studies: studies/dan3-10-COMPARE-daniel-7/04-word-studies.md
+        - Topics: studies/dan3-10-COMPARE-daniel-7/01-topics.md
+        - Research Scope: studies/dan3-10-COMPARE-daniel-7/PROMPT.md
+        - References: studies/dan3-10-COMPARE-daniel-7/00-references.md
+        - HIST Validation: studies/dan3-10-COMPARE-daniel-7/hist-validation.md
+        - PRET Validation: studies/dan3-10-COMPARE-daniel-7/pret-validation.md
+        - FUT Validation: studies/dan3-10-COMPARE-daniel-7/fut-validation.md
+        - HIST Revalidation: studies/dan3-10-COMPARE-daniel-7/hist-revalidation.md
+        - Custom Instructions: studies/dan3-10-COMPARE-daniel-7/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-10-COMPARE-daniel-7/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-10-COMPARE-daniel-7/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-10-COMPARE-daniel-7/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-10-COMPARE-daniel-7/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-10-COMPARE-daniel-7/raw-data/strongs-lookups.md
+
+    # ── Daniel 8 -- The Ram and Goat ──
+    - "Daniel 8 -- The Ram and Goat":
+
+      - "11 -- HIST: Daniel 8":
+        - studies/dan3-11-HIST-daniel-8/CONCLUSION.md
+        - Analysis: studies/dan3-11-HIST-daniel-8/03-analysis.md
+        - Verses: studies/dan3-11-HIST-daniel-8/02-verses.md
+        - Word Studies: studies/dan3-11-HIST-daniel-8/04-word-studies.md
+        - Topics: studies/dan3-11-HIST-daniel-8/01-topics.md
+        - Research Scope: studies/dan3-11-HIST-daniel-8/PROMPT.md
+        - References: studies/dan3-11-HIST-daniel-8/00-references.md
+        - HIST Validation: studies/dan3-11-HIST-daniel-8/hist-validation.md
+        - HIST Revalidation: studies/dan3-11-HIST-daniel-8/hist-revalidation.md
+        - Custom Instructions: studies/dan3-11-HIST-daniel-8/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-11-HIST-daniel-8/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-11-HIST-daniel-8/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-11-HIST-daniel-8/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-11-HIST-daniel-8/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-11-HIST-daniel-8/raw-data/strongs-lookups.md
+      - "12 -- PRET: Daniel 8":
+        - studies/dan3-12-PRET-daniel-8/CONCLUSION.md
+        - Analysis: studies/dan3-12-PRET-daniel-8/03-analysis.md
+        - Verses: studies/dan3-12-PRET-daniel-8/02-verses.md
+        - Word Studies: studies/dan3-12-PRET-daniel-8/04-word-studies.md
+        - Topics: studies/dan3-12-PRET-daniel-8/01-topics.md
+        - Research Scope: studies/dan3-12-PRET-daniel-8/PROMPT.md
+        - References: studies/dan3-12-PRET-daniel-8/00-references.md
+        - PRET Validation: studies/dan3-12-PRET-daniel-8/pret-validation.md
+        - Custom Instructions: studies/dan3-12-PRET-daniel-8/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-12-PRET-daniel-8/raw-data/concept-context.md
+          - "Hebrew Parsing": studies/dan3-12-PRET-daniel-8/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-12-PRET-daniel-8/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-12-PRET-daniel-8/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-12-PRET-daniel-8/raw-data/strongs-lookups.md
+      - "13 -- FUT: Daniel 8":
+        - studies/dan3-13-FUT-daniel-8/CONCLUSION.md
+        - Analysis: studies/dan3-13-FUT-daniel-8/03-analysis.md
+        - Verses: studies/dan3-13-FUT-daniel-8/02-verses.md
+        - Word Studies: studies/dan3-13-FUT-daniel-8/04-word-studies.md
+        - Topics: studies/dan3-13-FUT-daniel-8/01-topics.md
+        - Research Scope: studies/dan3-13-FUT-daniel-8/PROMPT.md
+        - References: studies/dan3-13-FUT-daniel-8/00-references.md
+        - FUT Validation: studies/dan3-13-FUT-daniel-8/fut-validation.md
+        - Custom Instructions: studies/dan3-13-FUT-daniel-8/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-13-FUT-daniel-8/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-13-FUT-daniel-8/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-13-FUT-daniel-8/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-13-FUT-daniel-8/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-13-FUT-daniel-8/raw-data/strongs-lookups.md
+      - "14 -- COMPARE: Daniel 8":
+        - studies/dan3-14-COMPARE-daniel-8/CONCLUSION.md
+        - Analysis: studies/dan3-14-COMPARE-daniel-8/03-analysis.md
+        - Verses: studies/dan3-14-COMPARE-daniel-8/02-verses.md
+        - Word Studies: studies/dan3-14-COMPARE-daniel-8/04-word-studies.md
+        - Topics: studies/dan3-14-COMPARE-daniel-8/01-topics.md
+        - Research Scope: studies/dan3-14-COMPARE-daniel-8/PROMPT.md
+        - References: studies/dan3-14-COMPARE-daniel-8/00-references.md
+        - HIST Validation: studies/dan3-14-COMPARE-daniel-8/hist-validation.md
+        - PRET Validation: studies/dan3-14-COMPARE-daniel-8/pret-validation.md
+        - FUT Validation: studies/dan3-14-COMPARE-daniel-8/fut-validation.md
+        - HIST Revalidation: studies/dan3-14-COMPARE-daniel-8/hist-revalidation.md
+        - Custom Instructions: studies/dan3-14-COMPARE-daniel-8/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Grammar References": studies/dan3-14-COMPARE-daniel-8/raw-data/grammar-references.md
+          - "Hebrew Parsing": studies/dan3-14-COMPARE-daniel-8/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-14-COMPARE-daniel-8/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-14-COMPARE-daniel-8/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-14-COMPARE-daniel-8/raw-data/strongs-lookups.md
+
+    # ── Daniel 8-9 -- The 70 Weeks ──
+    - "Daniel 8-9 -- The 70 Weeks":
+
+      - "15 -- HIST: Daniel 8-9 & 70 Weeks":
+        - studies/dan3-15-HIST-daniel-8-9/CONCLUSION.md
+        - Analysis: studies/dan3-15-HIST-daniel-8-9/03-analysis.md
+        - Verses: studies/dan3-15-HIST-daniel-8-9/02-verses.md
+        - Word Studies: studies/dan3-15-HIST-daniel-8-9/04-word-studies.md
+        - Topics: studies/dan3-15-HIST-daniel-8-9/01-topics.md
+        - Research Scope: studies/dan3-15-HIST-daniel-8-9/PROMPT.md
+        - References: studies/dan3-15-HIST-daniel-8-9/00-references.md
+        - HIST Validation: studies/dan3-15-HIST-daniel-8-9/hist-validation.md
+        - HIST Revalidation: studies/dan3-15-HIST-daniel-8-9/hist-revalidation.md
+        - Custom Instructions: studies/dan3-15-HIST-daniel-8-9/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-15-HIST-daniel-8-9/raw-data/concept-context.md
+          - "Hebrew Parsing": studies/dan3-15-HIST-daniel-8-9/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-15-HIST-daniel-8-9/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-15-HIST-daniel-8-9/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-15-HIST-daniel-8-9/raw-data/strongs-lookups.md
+      - "16 -- PRET: Daniel 8-9 & 70 Weeks":
+        - studies/dan3-16-PRET-daniel-8-9/CONCLUSION.md
+        - Analysis: studies/dan3-16-PRET-daniel-8-9/03-analysis.md
+        - Verses: studies/dan3-16-PRET-daniel-8-9/02-verses.md
+        - Word Studies: studies/dan3-16-PRET-daniel-8-9/04-word-studies.md
+        - Topics: studies/dan3-16-PRET-daniel-8-9/01-topics.md
+        - Research Scope: studies/dan3-16-PRET-daniel-8-9/PROMPT.md
+        - References: studies/dan3-16-PRET-daniel-8-9/00-references.md
+        - PRET Validation: studies/dan3-16-PRET-daniel-8-9/pret-validation.md
+        - Custom Instructions: studies/dan3-16-PRET-daniel-8-9/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-16-PRET-daniel-8-9/raw-data/concept-context.md
+          - "Hebrew Parsing": studies/dan3-16-PRET-daniel-8-9/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-16-PRET-daniel-8-9/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-16-PRET-daniel-8-9/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-16-PRET-daniel-8-9/raw-data/strongs-lookups.md
+      - "17 -- FUT: Daniel 8-9 & 70 Weeks":
+        - studies/dan3-17-FUT-daniel-8-9/CONCLUSION.md
+        - Analysis: studies/dan3-17-FUT-daniel-8-9/03-analysis.md
+        - Verses: studies/dan3-17-FUT-daniel-8-9/02-verses.md
+        - Word Studies: studies/dan3-17-FUT-daniel-8-9/04-word-studies.md
+        - Topics: studies/dan3-17-FUT-daniel-8-9/01-topics.md
+        - Research Scope: studies/dan3-17-FUT-daniel-8-9/PROMPT.md
+        - References: studies/dan3-17-FUT-daniel-8-9/00-references.md
+        - FUT Validation: studies/dan3-17-FUT-daniel-8-9/fut-validation.md
+        - Custom Instructions: studies/dan3-17-FUT-daniel-8-9/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-17-FUT-daniel-8-9/raw-data/concept-context.md
+          - "Existing Studies": studies/dan3-17-FUT-daniel-8-9/raw-data/existing-studies.md
+          - "Greek Parsing": studies/dan3-17-FUT-daniel-8-9/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-17-FUT-daniel-8-9/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-17-FUT-daniel-8-9/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-17-FUT-daniel-8-9/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-17-FUT-daniel-8-9/raw-data/strongs-lookups.md
+      - "18 -- COMPARE: Daniel 8-9 & 70 Weeks":
+        - studies/dan3-18-COMPARE-daniel-8-9/CONCLUSION.md
+        - Analysis: studies/dan3-18-COMPARE-daniel-8-9/03-analysis.md
+        - Verses: studies/dan3-18-COMPARE-daniel-8-9/02-verses.md
+        - Word Studies: studies/dan3-18-COMPARE-daniel-8-9/04-word-studies.md
+        - Topics: studies/dan3-18-COMPARE-daniel-8-9/01-topics.md
+        - Research Scope: studies/dan3-18-COMPARE-daniel-8-9/PROMPT.md
+        - References: studies/dan3-18-COMPARE-daniel-8-9/00-references.md
+        - HIST Validation: studies/dan3-18-COMPARE-daniel-8-9/hist-validation.md
+        - PRET Validation: studies/dan3-18-COMPARE-daniel-8-9/pret-validation.md
+        - FUT Validation: studies/dan3-18-COMPARE-daniel-8-9/fut-validation.md
+        - HIST Revalidation: studies/dan3-18-COMPARE-daniel-8-9/hist-revalidation.md
+        - Custom Instructions: studies/dan3-18-COMPARE-daniel-8-9/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-18-COMPARE-daniel-8-9/raw-data/concept-context.md
+          - "Existing Studies": studies/dan3-18-COMPARE-daniel-8-9/raw-data/existing-studies.md
+          - "Greek Parsing": studies/dan3-18-COMPARE-daniel-8-9/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-18-COMPARE-daniel-8-9/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-18-COMPARE-daniel-8-9/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-18-COMPARE-daniel-8-9/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-18-COMPARE-daniel-8-9/raw-data/strongs-lookups.md
+
+    # ── Daniel 10-12 -- The Final Vision ──
+    - "Daniel 10-12 -- The Final Vision":
+
+      - "19 -- HIST: Daniel 10-12":
+        - studies/dan3-19-HIST-daniel-10-12/CONCLUSION.md
+        - Analysis: studies/dan3-19-HIST-daniel-10-12/03-analysis.md
+        - Verses: studies/dan3-19-HIST-daniel-10-12/02-verses.md
+        - Word Studies: studies/dan3-19-HIST-daniel-10-12/04-word-studies.md
+        - Topics: studies/dan3-19-HIST-daniel-10-12/01-topics.md
+        - Research Scope: studies/dan3-19-HIST-daniel-10-12/PROMPT.md
+        - References: studies/dan3-19-HIST-daniel-10-12/00-references.md
+        - HIST Validation: studies/dan3-19-HIST-daniel-10-12/hist-validation.md
+        - HIST Revalidation: studies/dan3-19-HIST-daniel-10-12/hist-revalidation.md
+        - Custom Instructions: studies/dan3-19-HIST-daniel-10-12/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-19-HIST-daniel-10-12/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-19-HIST-daniel-10-12/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-19-HIST-daniel-10-12/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-19-HIST-daniel-10-12/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-19-HIST-daniel-10-12/raw-data/strongs-lookups.md
+      - "20 -- PRET: Daniel 10-12":
+        - studies/dan3-20-PRET-daniel-10-12/CONCLUSION.md
+        - Analysis: studies/dan3-20-PRET-daniel-10-12/03-analysis.md
+        - Verses: studies/dan3-20-PRET-daniel-10-12/02-verses.md
+        - Word Studies: studies/dan3-20-PRET-daniel-10-12/04-word-studies.md
+        - Topics: studies/dan3-20-PRET-daniel-10-12/01-topics.md
+        - Research Scope: studies/dan3-20-PRET-daniel-10-12/PROMPT.md
+        - References: studies/dan3-20-PRET-daniel-10-12/00-references.md
+        - PRET Validation: studies/dan3-20-PRET-daniel-10-12/pret-validation.md
+        - Custom Instructions: studies/dan3-20-PRET-daniel-10-12/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Apocrypha Searches": studies/dan3-20-PRET-daniel-10-12/raw-data/apocrypha-searches.md
+          - "Hebrew Parsing (Raw)": studies/dan3-20-PRET-daniel-10-12/raw-data/hebrew-parsing-raw.md
+          - "Hebrew Parsing": studies/dan3-20-PRET-daniel-10-12/raw-data/hebrew-parsing.md
+          - "Nave's Topics (Raw)": studies/dan3-20-PRET-daniel-10-12/raw-data/naves-raw-output.md
+          - "Nave's Topics": studies/dan3-20-PRET-daniel-10-12/raw-data/naves-topics.md
+          - "Parallels (Raw)": studies/dan3-20-PRET-daniel-10-12/raw-data/parallels-raw.md
+          - "Cross-Testament Parallels": studies/dan3-20-PRET-daniel-10-12/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-20-PRET-daniel-10-12/raw-data/strongs-lookups.md
+          - "Strong's Lookups (Raw)": studies/dan3-20-PRET-daniel-10-12/raw-data/strongs-raw-output.md
+      - "21 -- FUT: Daniel 10-12":
+        - studies/dan3-21-FUT-daniel-10-12/CONCLUSION.md
+        - Analysis: studies/dan3-21-FUT-daniel-10-12/03-analysis.md
+        - Verses: studies/dan3-21-FUT-daniel-10-12/02-verses.md
+        - Word Studies: studies/dan3-21-FUT-daniel-10-12/04-word-studies.md
+        - Topics: studies/dan3-21-FUT-daniel-10-12/01-topics.md
+        - Research Scope: studies/dan3-21-FUT-daniel-10-12/PROMPT.md
+        - References: studies/dan3-21-FUT-daniel-10-12/00-references.md
+        - FUT Validation: studies/dan3-21-FUT-daniel-10-12/fut-validation.md
+        - Custom Instructions: studies/dan3-21-FUT-daniel-10-12/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-21-FUT-daniel-10-12/raw-data/concept-context.md
+          - "Greek Parsing": studies/dan3-21-FUT-daniel-10-12/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-21-FUT-daniel-10-12/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-21-FUT-daniel-10-12/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-21-FUT-daniel-10-12/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-21-FUT-daniel-10-12/raw-data/strongs-lookups.md
+      - "22 -- COMPARE: Daniel 10-12":
+        - studies/dan3-22-COMPARE-daniel-10-12/CONCLUSION.md
+        - Analysis: studies/dan3-22-COMPARE-daniel-10-12/03-analysis.md
+        - Verses: studies/dan3-22-COMPARE-daniel-10-12/02-verses.md
+        - Word Studies: studies/dan3-22-COMPARE-daniel-10-12/04-word-studies.md
+        - Topics: studies/dan3-22-COMPARE-daniel-10-12/01-topics.md
+        - Research Scope: studies/dan3-22-COMPARE-daniel-10-12/PROMPT.md
+        - References: studies/dan3-22-COMPARE-daniel-10-12/00-references.md
+        - HIST Validation: studies/dan3-22-COMPARE-daniel-10-12/hist-validation.md
+        - PRET Validation: studies/dan3-22-COMPARE-daniel-10-12/pret-validation.md
+        - FUT Validation: studies/dan3-22-COMPARE-daniel-10-12/fut-validation.md
+        - HIST Revalidation: studies/dan3-22-COMPARE-daniel-10-12/hist-revalidation.md
+        - Custom Instructions: studies/dan3-22-COMPARE-daniel-10-12/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-22-COMPARE-daniel-10-12/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-22-COMPARE-daniel-10-12/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-22-COMPARE-daniel-10-12/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-22-COMPARE-daniel-10-12/raw-data/parallels.md
+          - "Perspective Claims": studies/dan3-22-COMPARE-daniel-10-12/raw-data/perspective-claims.md
+          - "Strong's Lookups": studies/dan3-22-COMPARE-daniel-10-12/raw-data/strongs-lookups.md
+
+    # ── Cross-Cutting Studies ──
+    - "Cross-Cutting Studies":
+
+      - "23 -- The Day-Year Principle":
+        - studies/dan3-23-day-year-principle/CONCLUSION.md
+        - Analysis: studies/dan3-23-day-year-principle/03-analysis.md
+        - Verses: studies/dan3-23-day-year-principle/02-verses.md
+        - Word Studies: studies/dan3-23-day-year-principle/04-word-studies.md
+        - Topics: studies/dan3-23-day-year-principle/01-topics.md
+        - Research Scope: studies/dan3-23-day-year-principle/PROMPT.md
+        - References: studies/dan3-23-day-year-principle/00-references.md
+        - HIST Validation: studies/dan3-23-day-year-principle/hist-validation.md
+        - PRET Validation: studies/dan3-23-day-year-principle/pret-validation.md
+        - FUT Validation: studies/dan3-23-day-year-principle/fut-validation.md
+        - HIST Revalidation: studies/dan3-23-day-year-principle/hist-revalidation.md
+        - Custom Instructions: studies/dan3-23-day-year-principle/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-23-day-year-principle/raw-data/concept-context.md
+          - "Greek Parsing": studies/dan3-23-day-year-principle/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-23-day-year-principle/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-23-day-year-principle/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-23-day-year-principle/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-23-day-year-principle/raw-data/strongs-lookups.md
+      - "24 -- NT Use of Daniel":
+        - studies/dan3-24-nt-use-of-daniel/CONCLUSION.md
+        - Analysis: studies/dan3-24-nt-use-of-daniel/03-analysis.md
+        - Verses: studies/dan3-24-nt-use-of-daniel/02-verses.md
+        - Word Studies: studies/dan3-24-nt-use-of-daniel/04-word-studies.md
+        - Topics: studies/dan3-24-nt-use-of-daniel/01-topics.md
+        - Research Scope: studies/dan3-24-nt-use-of-daniel/PROMPT.md
+        - References: studies/dan3-24-nt-use-of-daniel/00-references.md
+        - HIST Validation: studies/dan3-24-nt-use-of-daniel/hist-validation.md
+        - PRET Validation: studies/dan3-24-nt-use-of-daniel/pret-validation.md
+        - FUT Validation: studies/dan3-24-nt-use-of-daniel/fut-validation.md
+        - HIST Revalidation: studies/dan3-24-nt-use-of-daniel/hist-revalidation.md
+        - Custom Instructions: studies/dan3-24-nt-use-of-daniel/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-24-nt-use-of-daniel/raw-data/concept-context.md
+          - "Greek Parsing": studies/dan3-24-nt-use-of-daniel/raw-data/greek-parsing.md
+          - "Nave's Topics": studies/dan3-24-nt-use-of-daniel/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-24-nt-use-of-daniel/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-24-nt-use-of-daniel/raw-data/strongs-lookups.md
+      - "25 -- Daniel-Revelation Connections":
+        - studies/dan3-25-daniel-revelation/CONCLUSION.md
+        - Analysis: studies/dan3-25-daniel-revelation/03-analysis.md
+        - Verses: studies/dan3-25-daniel-revelation/02-verses.md
+        - Word Studies: studies/dan3-25-daniel-revelation/04-word-studies.md
+        - Topics: studies/dan3-25-daniel-revelation/01-topics.md
+        - Research Scope: studies/dan3-25-daniel-revelation/PROMPT.md
+        - References: studies/dan3-25-daniel-revelation/00-references.md
+        - HIST Validation: studies/dan3-25-daniel-revelation/hist-validation.md
+        - PRET Validation: studies/dan3-25-daniel-revelation/pret-validation.md
+        - FUT Validation: studies/dan3-25-daniel-revelation/fut-validation.md
+        - HIST Revalidation: studies/dan3-25-daniel-revelation/hist-revalidation.md
+        - Custom Instructions: studies/dan3-25-daniel-revelation/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-25-daniel-revelation/raw-data/concept-context.md
+          - "Greek Parsing": studies/dan3-25-daniel-revelation/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-25-daniel-revelation/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-25-daniel-revelation/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-25-daniel-revelation/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-25-daniel-revelation/raw-data/strongs-lookups.md
+      - "26 -- Counter-Arguments & Responses":
+        - studies/dan3-26-counter-arguments/CONCLUSION.md
+        - Analysis: studies/dan3-26-counter-arguments/03-analysis.md
+        - Verses: studies/dan3-26-counter-arguments/02-verses.md
+        - Word Studies: studies/dan3-26-counter-arguments/04-word-studies.md
+        - Topics: studies/dan3-26-counter-arguments/01-topics.md
+        - Research Scope: studies/dan3-26-counter-arguments/PROMPT.md
+        - References: studies/dan3-26-counter-arguments/00-references.md
+        - HIST Validation: studies/dan3-26-counter-arguments/hist-validation.md
+        - PRET Validation: studies/dan3-26-counter-arguments/pret-validation.md
+        - FUT Validation: studies/dan3-26-counter-arguments/fut-validation.md
+        - HIST Revalidation: studies/dan3-26-counter-arguments/hist-revalidation.md
+        - Custom Instructions: studies/dan3-26-counter-arguments/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-26-counter-arguments/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-26-counter-arguments/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-26-counter-arguments/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-26-counter-arguments/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-26-counter-arguments/raw-data/strongs-lookups.md
+
+    # ── Steelman Compilations ──
+    - "Steelman Compilations":
+
+      - "27 -- HIST Steelman":
+        - studies/dan3-27-HIST-steelman/CONCLUSION.md
+        - Analysis: studies/dan3-27-HIST-steelman/03-analysis.md
+        - Verses: studies/dan3-27-HIST-steelman/02-verses.md
+        - Word Studies: studies/dan3-27-HIST-steelman/04-word-studies.md
+        - Topics: studies/dan3-27-HIST-steelman/01-topics.md
+        - Research Scope: studies/dan3-27-HIST-steelman/PROMPT.md
+        - References: studies/dan3-27-HIST-steelman/00-references.md
+        - HIST Validation: studies/dan3-27-HIST-steelman/hist-validation.md
+        - HIST Revalidation: studies/dan3-27-HIST-steelman/hist-revalidation.md
+        - Custom Instructions: studies/dan3-27-HIST-steelman/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-27-HIST-steelman/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-27-HIST-steelman/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-27-HIST-steelman/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-27-HIST-steelman/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-27-HIST-steelman/raw-data/strongs-lookups.md
+      - "28 -- PRET Steelman":
+        - studies/dan3-28-PRET-steelman/CONCLUSION.md
+        - Analysis: studies/dan3-28-PRET-steelman/03-analysis.md
+        - Verses: studies/dan3-28-PRET-steelman/02-verses.md
+        - Word Studies: studies/dan3-28-PRET-steelman/04-word-studies.md
+        - Topics: studies/dan3-28-PRET-steelman/01-topics.md
+        - Research Scope: studies/dan3-28-PRET-steelman/PROMPT.md
+        - References: studies/dan3-28-PRET-steelman/00-references.md
+        - PRET Validation: studies/dan3-28-PRET-steelman/pret-validation.md
+        - Custom Instructions: studies/dan3-28-PRET-steelman/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Concept Context": studies/dan3-28-PRET-steelman/raw-data/concept-context.md
+          - "Existing Studies": studies/dan3-28-PRET-steelman/raw-data/existing-studies.md
+          - "Greek Parsing": studies/dan3-28-PRET-steelman/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-28-PRET-steelman/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-28-PRET-steelman/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-28-PRET-steelman/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-28-PRET-steelman/raw-data/strongs-lookups.md
+      - "29 -- FUT Steelman":
+        - studies/dan3-29-FUT-steelman/CONCLUSION.md
+        - Analysis: studies/dan3-29-FUT-steelman/03-analysis.md
+        - Verses: studies/dan3-29-FUT-steelman/02-verses.md
+        - Word Studies: studies/dan3-29-FUT-steelman/04-word-studies.md
+        - Topics: studies/dan3-29-FUT-steelman/01-topics.md
+        - Research Scope: studies/dan3-29-FUT-steelman/PROMPT.md
+        - References: studies/dan3-29-FUT-steelman/00-references.md
+        - FUT Validation: studies/dan3-29-FUT-steelman/fut-validation.md
+        - Custom Instructions: studies/dan3-29-FUT-steelman/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-29-FUT-steelman/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-29-FUT-steelman/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-29-FUT-steelman/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-29-FUT-steelman/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-29-FUT-steelman/raw-data/strongs-lookups.md
+
+    # ── Synthesis ──
+    - "Synthesis":
+
+      - "30 -- Grand Synthesis":
+        - studies/dan3-30-grand-synthesis/CONCLUSION.md
+        - Analysis: studies/dan3-30-grand-synthesis/03-analysis.md
+        - Verses: studies/dan3-30-grand-synthesis/02-verses.md
+        - Word Studies: studies/dan3-30-grand-synthesis/04-word-studies.md
+        - Topics: studies/dan3-30-grand-synthesis/01-topics.md
+        - Research Scope: studies/dan3-30-grand-synthesis/PROMPT.md
+        - References: studies/dan3-30-grand-synthesis/00-references.md
+        - HIST Validation: studies/dan3-30-grand-synthesis/hist-validation.md
+        - PRET Validation: studies/dan3-30-grand-synthesis/pret-validation.md
+        - FUT Validation: studies/dan3-30-grand-synthesis/fut-validation.md
+        - Custom Instructions: studies/dan3-30-grand-synthesis/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Compare Tallies": studies/dan3-30-grand-synthesis/raw-data/compare-tallies.md
+          - "Constraining Effects": studies/dan3-30-grand-synthesis/raw-data/constraining-effects.md
+          - "Counter-Arguments": studies/dan3-30-grand-synthesis/raw-data/counter-arguments.md
+          - "Evidence DB (Full)": studies/dan3-30-grand-synthesis/raw-data/evidence-db-full.md
+          - "I-B Resolutions": studies/dan3-30-grand-synthesis/raw-data/ib-resolutions.md
+          - "Specification Matrices": studies/dan3-30-grand-synthesis/raw-data/specification-matrices.md
+          - "Steelman Weaknesses": studies/dan3-30-grand-synthesis/raw-data/steelman-weaknesses.md
+
+  - Methodology: methodology.md
+  - "Tools & Process": tools.md

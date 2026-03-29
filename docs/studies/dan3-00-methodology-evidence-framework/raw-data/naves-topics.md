@@ -1,0 +1,84 @@
+# Raw Nave's Topic Data
+
+## WORD OF GOD
+Called: BOOK (PSA 40:7; REV 22:19), BOOK OF THE LORD (ISA 34:16), BOOK OF THE LAW (NEH 8:3; GAL 3:10), GOOD WORD OF GOD (HEB 6:5), HOLY SCRIPTURES (ROM 1:2; 2TI 3:15), LAW OF THE LORD (PSA 1:2; ISA 30:9), ORACLES OF GOD (ROM 3:2; 1PE 4:11), SCRIPTURES (1CO 15:3), SCRIPTURES OF TRUTH (DAN 10:21), SWORD OF THE SPIRIT (EPH 6:17), THE WORD (JAS 1:21-23; 1PE 2:2), WORD OF GOD (LUK 11:28; HEB 4:12), WORD OF CHRIST (COL 3:16), WORD OF LIFE (PHP 2:16), WORD OF TRUTH (2TI 2:15; JAS 1:18)
+
+Compared: To seed (MAT 13:3-8,18-23,37,38; MRK 4:3-20,26-32; LUK 8:5-15); To a two-edged sword (HEB 4:12)
+
+To be read publicly: DEU 31:11-13; JOS 8:33-35; 2KI 23:2; 2CH 17:7-9; NEH 8:1-8,13,18; JER 36:6; ACT 13:15,27; COL 4:16; 1TH 5:27
+
+Expounded: NEH 8:8
+By Jesus: LUK 4:16-27; 24:27,45
+Searched: ACT 17:11
+Searching of, commanded: JHN 5:39; 7:52
+Not to be added to, or taken from: DEU 4:2; 12:32; REV 22:18,19
+The standard of the judgment: JHN 12:48; ROM 2:16
+
+INSPIRATION OF: EXO 19:7; 20:1; 24:4,12; 25:21; 31:18; 32:16; 34:27,32; LEV 26:46; DEU 4:5,14; 11:18; 31:19,22; 2KI 17:13; 2CH 33:18; JOB 23:12; PSA 78:5; 99:7; 147:19; ECC 12:11; ISA 30:12,13; 34:16; 59:21; JER 30:2; 36:1,2,27,28,32; 51:59-64; EZK 11:25; DAN 10:21; HOS 8:12; ZEC 7:12; MAT 22:31,32; LUK 1:1-4,68-73; ACT 1:16; 28:25; ROM 3:1,2; 1CO 2:12,13; 7:10; 14:37; EPH 6:17; COL 3:16; 1TH 2:13; 4:1-3; 1TI 6:3-5; 2TI 3:16,17; HEB 1:1,2; 3:7,8; 4:12; 5:12; 1PE 1:11,12; 2PE 1:21; 3:2,15; 1JN 1:1-5; REV 1:1,2,11,17-19; 2:7; 19:10; 22:6-8
+
+UNBELIEF IN: PSA 50:16,17; PRO 1:29,30; 13:13; ISA 5:24; 28:9-14; 30:9-11; 53:1; JER 6:10; 8:9; HOS 8:12; AMO 2:12; MIC 2:6; LUK 16:31; 24:25; JHN 3:20; 5:46,47; 8:37,45; 1CO 1:18,22,23; 2TI 3:8; 4:3,4; 1PE 2:8; 2PE 3:15,16; REV 22:19
+
+## PROPHECY
+Inspired: ISA 28:22; LUK 1:70; 2TI 3:16; 2PE 1:21
+Sure fulfillment: EZK 12:22-25,28; HAB 2:3; MAT 5:18; 24:35; ACT 13:27,29
+Cessation of: LAM 2:9
+Of apostasy: 1JN 2:18; Jude 1:17,18
+False teachers: 2PE 2; 3
+
+## PROPHETS
+Called SEERS: 1SA 9:19; 2SA 15:27; 24:11; 2KI 17:13; etc.
+Schools of: 1KI 20:35; 2KI 2:3-15; 4:1,38; 9:1
+Inspired by angels: ZEC 1:9,13,14,19; ACT 7:53; GAL 3:19; HEB 2:2
+FALSE: 1KI 13:18; NEH 6:12; JER 23:25-27,30-32; LAM 2:14
+Warnings to: DEU 13:1-3
+Denunciations against: DEU 18:20; JER 14:15
+INSPIRATION OF: (extensive list including) GEN 40:8; 41:16,38,39; NUM 12:6-8; DAN 1:17; 2:19; 7:16; 8:16; 9:1-22; 10:7-9; AMO 3:7,8; 2PE 1:21
+
+## EVIDENCE
+LAWS CONCERNING: EXO 20:16; 23:1,7; LEV 5:1; 24:14; NUM 35:30; DEU 17:6,7; 19:15-21; PRO 24:28; MAT 18:16; 19:18; HEB 10:28
+
+## TESTIMONY
+LEGAL: See EVIDENCE; See WITNESSES
+RELIGIOUS: 1CH 16:8,9; PSA 9:11; 18:49; 26:6,7; 119:27,172; 145:11,12; ISA 12:4-6; 32:4; 43:10; 44:8; 45:24; JER 51:10; MAT 5:15; 10:32; etc.
+
+## WITNESS
+Two necessary to establish a fact: NUM 35:30; DEU 17:6; 19:15; MAT 18:16; JHN 8:17; 2CO 13:1; 1TI 5:19; HEB 10:28
+
+## INTERPRETER
+Of dreams: GEN 40:8; 41:16; DAN 2:18-30
+Of languages: GEN 42:23; 2CH 32:31; NEH 8:8; JOB 33:23
+In congregations: 1CO 12:10,30; 14:5,13,26-28
+
+## REASONING
+With God: JOB 13:3,17-28
+God reasons with men: EXO 4:11; 20:5,11; ISA 1:18; 5:3,4; 43:26; HOS 4:1; MIC 6:2
+To be applied to godly living: 1CO 10:15; 1PE 3:15
+Not a sufficient guide: DEU 12:8; PRO 3:5; 14:12
+Of Paul from Scriptures: ACT 17:2; 18:4,19; 24:25
+
+## INVESTIGATION
+General: ECC 1:13-18; 2:1-12; 12:9-14
+
+## DOCTRINES
+General: JHN 7:16,17
+Guidelines from Jerusalem: ACT 15:6-29
+FALSE: MAT 5:19; 15:9,13; ROM 16:17,18; 1CO 3:1-4,11,21; GAL 1:6-8; EPH 4:14; COL 2:4,8,18-23; 1TI 1:3,4,6,7,19; 4:1-3,7; 6:3-5,20,21; 2TI 2:14,16-18; 3:6-9,13; 4:3; TIT 1:10,11,14; 3:10,11; HEB 13:9; 2PE 2:1-22; 1JN 4:3; 2JN 1:7-9
+
+## DREAM
+Revelations by: NUM 12:6; JER 23:28; JOL 2:28; ACT 2:17
+Interpreted by Joseph: GEN 40:12,13,18,19; 41:25-32
+Interpreted by Daniel: DAN 2:16-23,28-30; 4
+False prophets pretended through: DEU 13:1-5; JER 23:25-32; 27:9; 29:8; ZEC 10:2
+
+## REVELATION
+God reveals himself to Moses: EXO 3:1-6,14; 6:1-3
+The pattern of the temple: 1CH 28:11-19
+The sonship of Jesus: MAT 3:17; 16:17; 17:5
+
+## SCRIPTURES
+Interpreted by doctors: JHN 3:10; 7:52
+Inspired by God: 2TI 3:16
+
+## INTERPRETATION
+Of dreams: See DREAMS
+Of foreign tongues: 1CO 14:9-19
