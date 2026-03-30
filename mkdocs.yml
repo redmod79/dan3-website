@@ -660,6 +660,31 @@ nav:
           - "Cross-Testament Parallels": studies/dan3-29-FUT-steelman/raw-data/parallels.md
           - "Strong's Lookups": studies/dan3-29-FUT-steelman/raw-data/strongs-lookups.md
 
+    # ── Evidence Compilation ──
+    - "Evidence Compilation":
+
+      - "30 -- Evidence Compilation":
+        - studies/dan3-30-grand-synthesis/conclusion-simple.md
+        - Conclusion: studies/dan3-30-grand-synthesis/CONCLUSION.md
+        - Analysis: studies/dan3-30-grand-synthesis/03-analysis.md
+        - Verses: studies/dan3-30-grand-synthesis/02-verses.md
+        - Word Studies: studies/dan3-30-grand-synthesis/04-word-studies.md
+        - Topics: studies/dan3-30-grand-synthesis/01-topics.md
+        - Research Scope: studies/dan3-30-grand-synthesis/PROMPT.md
+        - References: studies/dan3-30-grand-synthesis/00-references.md
+        - HIST Validation: studies/dan3-30-grand-synthesis/hist-validation.md
+        - PRET Validation: studies/dan3-30-grand-synthesis/pret-validation.md
+        - FUT Validation: studies/dan3-30-grand-synthesis/fut-validation.md
+        - Custom Instructions: studies/dan3-30-grand-synthesis/CUSTOM-INSTRUCTIONS.md
+        - Raw Data:
+          - "Compare Tallies": studies/dan3-30-grand-synthesis/raw-data/compare-tallies.md
+          - "Constraining Effects": studies/dan3-30-grand-synthesis/raw-data/constraining-effects.md
+          - "Counter-Arguments": studies/dan3-30-grand-synthesis/raw-data/counter-arguments.md
+          - "Evidence DB (Full)": studies/dan3-30-grand-synthesis/raw-data/evidence-db-full.md
+          - "I-B Resolutions": studies/dan3-30-grand-synthesis/raw-data/ib-resolutions.md
+          - "Specification Matrices": studies/dan3-30-grand-synthesis/raw-data/specification-matrices.md
+          - "Steelman Weaknesses": studies/dan3-30-grand-synthesis/raw-data/steelman-weaknesses.md
+
     # ── Framework Analysis ──
     - "Framework Analysis":
 
@@ -724,30 +749,9 @@ nav:
           - "Cross-Testament Parallels": studies/dan3-34-framework-comparison/raw-data/parallels.md
           - "Strong's Lookups": studies/dan3-34-framework-comparison/raw-data/strongs-lookups.md
 
-    # ── Synthesis ──
-    - "Synthesis":
+    # ── Final Synthesis ──
+    - "Final Synthesis":
 
-      - "30 -- Grand Synthesis":
-        - studies/dan3-30-grand-synthesis/conclusion-simple.md
-        - Conclusion: studies/dan3-30-grand-synthesis/CONCLUSION.md
-        - Analysis: studies/dan3-30-grand-synthesis/03-analysis.md
-        - Verses: studies/dan3-30-grand-synthesis/02-verses.md
-        - Word Studies: studies/dan3-30-grand-synthesis/04-word-studies.md
-        - Topics: studies/dan3-30-grand-synthesis/01-topics.md
-        - Research Scope: studies/dan3-30-grand-synthesis/PROMPT.md
-        - References: studies/dan3-30-grand-synthesis/00-references.md
-        - HIST Validation: studies/dan3-30-grand-synthesis/hist-validation.md
-        - PRET Validation: studies/dan3-30-grand-synthesis/pret-validation.md
-        - FUT Validation: studies/dan3-30-grand-synthesis/fut-validation.md
-        - Custom Instructions: studies/dan3-30-grand-synthesis/CUSTOM-INSTRUCTIONS.md
-        - Raw Data:
-          - "Compare Tallies": studies/dan3-30-grand-synthesis/raw-data/compare-tallies.md
-          - "Constraining Effects": studies/dan3-30-grand-synthesis/raw-data/constraining-effects.md
-          - "Counter-Arguments": studies/dan3-30-grand-synthesis/raw-data/counter-arguments.md
-          - "Evidence DB (Full)": studies/dan3-30-grand-synthesis/raw-data/evidence-db-full.md
-          - "I-B Resolutions": studies/dan3-30-grand-synthesis/raw-data/ib-resolutions.md
-          - "Specification Matrices": studies/dan3-30-grand-synthesis/raw-data/specification-matrices.md
-          - "Steelman Weaknesses": studies/dan3-30-grand-synthesis/raw-data/steelman-weaknesses.md
       - "35 -- Final Synthesis":
         - studies/dan3-35-final-synthesis/conclusion-simple.md
         - Conclusion: studies/dan3-35-final-synthesis/CONCLUSION.md

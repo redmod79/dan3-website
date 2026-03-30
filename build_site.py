@@ -51,7 +51,7 @@ SHORT_TITLES = {
     "dan3-27": "HIST Steelman",
     "dan3-28": "PRET Steelman",
     "dan3-29": "FUT Steelman",
-    "dan3-30": "Grand Synthesis",
+    "dan3-30": "Evidence Compilation",
     "dan3-31": "HIST Framework",
     "dan3-32": "PRET Framework",
     "dan3-33": "FUT Framework",
@@ -90,7 +90,7 @@ FULL_TITLES = {
     "dan3-27": "The complete historicist case across all of Daniel",
     "dan3-28": "The complete preterist case across all of Daniel",
     "dan3-29": "The complete futurist case across all of Daniel",
-    "dan3-30": "Grand synthesis: what Daniel's prophetic visions establish, suggest, and leave disputed",
+    "dan3-30": "Complete evidence compilation: 399 items classified across all vision cycles",
     "dan3-31": "What is the historicist reading of Daniel as a complete interpretive system?",
     "dan3-32": "What is the preterist reading of Daniel as a complete interpretive system?",
     "dan3-33": "What is the futurist reading of Daniel as a complete interpretive system?",
@@ -141,14 +141,19 @@ CLUSTERS = [
         "studies": ["dan3-27", "dan3-28", "dan3-29"],
     },
     {
+        "name": "Evidence Compilation",
+        "desc": "All 399 evidence items from the 30 prior studies compiled, tallied, and classified in one place.",
+        "studies": ["dan3-30"],
+    },
+    {
         "name": "Framework Analysis",
         "desc": "Zooming out from details to systems: what each position IS as an interpretive framework, compared side by side.",
         "studies": ["dan3-31", "dan3-32", "dan3-33", "dan3-34"],
     },
     {
-        "name": "Synthesis",
-        "desc": "Grand evidence synthesis (399 items) and final framework-plus-evidence capstone assessment.",
-        "studies": ["dan3-30", "dan3-35"],
+        "name": "Final Synthesis",
+        "desc": "Capstone assessment combining detail-level evidence with framework-level analysis to determine each position's viability.",
+        "studies": ["dan3-35"],
     },
 ]
 

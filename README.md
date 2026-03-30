@@ -36,7 +36,7 @@ A 31-study comparative investigation of Daniel's prophecies through Historicist,
 | 27 | HIST Steelman | The complete historicist case across all of Daniel |
 | 28 | PRET Steelman | The complete preterist case across all of Daniel |
 | 29 | FUT Steelman | The complete futurist case across all of Daniel |
-| 30 | Grand Synthesis | Grand synthesis: what Daniel's prophetic visions establish, suggest, and leave disputed |
+| 30 | Evidence Compilation | Complete evidence compilation: 399 items classified across all vision cycles |
 | 31 | HIST Framework | What is the historicist reading of Daniel as a complete interpretive system? |
 | 32 | PRET Framework | What is the preterist reading of Daniel as a complete interpretive system? |
 | 33 | FUT Framework | What is the futurist reading of Daniel as a complete interpretive system? |

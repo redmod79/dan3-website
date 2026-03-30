@@ -122,6 +122,14 @@ Each position's complete case compiled and stress-tested across all of Daniel.
 | 28 | [PRET Steelman](studies/dan3-28-PRET-steelman/conclusion-simple.md) | The complete preterist case across all of Daniel |
 | 29 | [FUT Steelman](studies/dan3-29-FUT-steelman/conclusion-simple.md) | The complete futurist case across all of Daniel |
 
+### Evidence Compilation
+
+All 399 evidence items from the 30 prior studies compiled, tallied, and classified in one place.
+
+| # | Study | Question |
+|---|-------|----------|
+| 30 | [Evidence Compilation](studies/dan3-30-grand-synthesis/conclusion-simple.md) | Complete evidence compilation: 399 items classified across all vision cycles |
+
 ### Framework Analysis
 
 Zooming out from details to systems: what each position IS as an interpretive framework, compared side by side.
@@ -133,13 +141,12 @@ Zooming out from details to systems: what each position IS as an interpretive fr
 | 33 | [FUT Framework](studies/dan3-33-FUT-framework/conclusion-simple.md) | What is the futurist reading of Daniel as a complete interpretive system? |
 | 34 | [Framework Comparison](studies/dan3-34-framework-comparison/conclusion-simple.md) | How do the three interpretive systems compare at the structural level? |
 
-### Synthesis
+### Final Synthesis
 
-Grand evidence synthesis (399 items) and final framework-plus-evidence capstone assessment.
+Capstone assessment combining detail-level evidence with framework-level analysis to determine each position's viability.
 
 | # | Study | Question |
 |---|-------|----------|
-| 30 | [Grand Synthesis](studies/dan3-30-grand-synthesis/conclusion-simple.md) | Grand synthesis: what Daniel's prophetic visions establish, suggest, and leave disputed |
 | 35 | [Final Synthesis](studies/dan3-35-final-synthesis/conclusion-simple.md) | Final assessment: framework-evidence alignment, graded viability, and convergence |
 
 ---
