@@ -48,9 +48,9 @@ The day-year principle (treating prophetic "days" as calendar years) is historic
 
 ### Preterism
 
-The preterist reading locates the fulfillment of Daniel's visions almost entirely in the Hellenistic period, centered on the Greek king Antiochus IV Epiphanes (175–164 BC), who desecrated the Jerusalem temple and persecuted the Jewish people. This is a genuine historical insight: Antiochus really does match portions of Daniel 8 and Daniel 11:21–35 with remarkable specificity — the directional growth of his campaigns, the removal of the daily sacrifice, the desecration of the sanctuary.
+The preterist reading locates the fulfillment of Daniel's visions almost entirely in the Hellenistic period, centered on the Greek king Antiochus IV Epiphanes (175–164 BC), who desecrated the Jerusalem temple and persecuted the Jewish people. The preterist case is strongest in Daniel 8 (where Antiochus matches several specifications — directional growth, removal of the daily sacrifice, desecration of the sanctuary) and in Daniel 11:2-15 (the Ptolemaic-Seleucid wars). Preterists also read Dan 11:21-35 as Antiochus, though the historicist tradition (Miller, Smith, Froom) reads that section as Rome.
 
-This historical layer is textually real and permanently valuable. Preterism's methodological contributions — careful vocabulary chain analysis, close attention to the historical correspondences — belong to any adequate reading of Daniel. The section of Daniel 11 covering the Ptolemaic and Seleucid dynasties (11:5–35) is the strongest preterist section in the entire book.
+Preterism's methodological contributions — careful vocabulary chain analysis, close attention to the historical correspondences — belong to any adequate reading of Daniel. The section of Daniel 11 covering the Ptolemaic and Seleucid dynasties (11:2-15) is common ground for all positions and the strongest preterist section in the entire book.
 
 But preterism fails as a complete reading because Daniel's own text repeatedly extends beyond the Maccabean era, and preterism has no way to account for this extension without ceasing to be preterism.
 
