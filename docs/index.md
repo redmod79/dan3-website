@@ -30,7 +30,7 @@ Each study is a genuine investigation. The agents gathered ALL relevant evidence
 
 [**Read the Methodology**](methodology.md){ .md-button }
  
-[**Skip to the Grand Synthesis**](studies/dan3-30-grand-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
+[**Skip to the Final Synthesis**](studies/dan3-35-final-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
 
 ---
 
@@ -190,7 +190,7 @@ The ratio of I-A (strongest inference) to I-D (weakest inference) items reveals 
 
 Historicism requires zero items that override explicit text. Preterism requires one. Futurism requires four.
 
-[**Read the Grand Synthesis**](studies/dan3-30-grand-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
+[**Read the Final Synthesis**](studies/dan3-35-final-synthesis/conclusion-simple.md){ .md-button .md-button--primary }
 
 ---
 

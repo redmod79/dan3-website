@@ -481,11 +481,11 @@ def generate_index_md():
     content.append("")
     content.append("[**Read the Methodology**](methodology.md){ .md-button }")
     content.append(" ")
-    synth_simple = DOCS_STUDIES / "dan3-30-grand-synthesis" / "conclusion-simple.md"
+    synth_simple = DOCS_STUDIES / "dan3-35-final-synthesis" / "conclusion-simple.md"
     if synth_simple.exists():
-        content.append("[**Skip to the Grand Synthesis**](studies/dan3-30-grand-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
+        content.append("[**Skip to the Final Synthesis**](studies/dan3-35-final-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
     else:
-        content.append("[**Skip to the Grand Synthesis**](studies/dan3-30-grand-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
+        content.append("[**Skip to the Final Synthesis**](studies/dan3-35-final-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
     content.append("")
     content.append("---")
     content.append("")
@@ -567,11 +567,11 @@ def generate_index_md():
     content.append("")
     content.append("Historicism requires zero items that override explicit text. Preterism requires one. Futurism requires four.")
     content.append("")
-    synth_simple2 = DOCS_STUDIES / "dan3-30-grand-synthesis" / "conclusion-simple.md"
+    synth_simple2 = DOCS_STUDIES / "dan3-35-final-synthesis" / "conclusion-simple.md"
     if synth_simple2.exists():
-        content.append("[**Read the Grand Synthesis**](studies/dan3-30-grand-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
+        content.append("[**Read the Final Synthesis**](studies/dan3-35-final-synthesis/conclusion-simple.md){ .md-button .md-button--primary }")
     else:
-        content.append("[**Read the Grand Synthesis**](studies/dan3-30-grand-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
+        content.append("[**Read the Final Synthesis**](studies/dan3-35-final-synthesis/CONCLUSION.md){ .md-button .md-button--primary }")
     content.append("")
     content.append("---")
     content.append("")
