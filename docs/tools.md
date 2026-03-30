@@ -104,6 +104,40 @@ The tools draw from these primary data sources:
 
 ---
 
+## Position Databases: How Each View Gets a Fair Hearing
+
+A distinctive feature of this series is that each interpretive position has its own **dedicated argument database** -- a curated collection of that position's strongest arguments, verified against its own scholarly tradition. These databases ensure that no position is straw-manned or under-represented.
+
+### Historicist Position Database (942 arguments)
+
+The historicist database represents the traditional Protestant reading of Daniel as continuous prophecy spanning from Babylon to the Second Coming. Its arguments were verified against Ellen White's writings, SDA pioneer scholarship (Uriah Smith, William Miller, Josiah Litch, S.N. Haskell), LeRoy Froom's *Prophetic Faith of Our Fathers*, and Stephen Bohr's study notes.
+
+The database contains textual/grammatical arguments (e.g., the *gadal/yether* progression requiring the little horn to exceed both Persia and Greece), vocabulary chains binding Daniel's chapters into a unified prophetic corpus (e.g., the *biyn* chain across Dan 8-12), cross-references to Revelation (186 catalogued allusions), day-year principle evidence (13 supporting lines), and documented historical fulfillments.
+
+### Preterist Position Database (412 arguments)
+
+The preterist database represents the reading of Daniel's prophecies as referring primarily to the Maccabean crisis of 167-164 BC. Sources include Jerome's Commentary on Daniel (preserving Porphyry's 3rd-century arguments -- the earliest systematic preterist case), Albert Barnes, John Calvin, Matthew Henry, and modern critical scholars (Collins, Goldingay, Kitchen).
+
+The database contains dating/composition arguments (linguistic evidence, Dead Sea Scrolls), Antiochus IV identification evidence, Dan 11:1-35 verse-by-verse Ptolemaic-Seleucid correspondences (the preterist position's strongest section), literary genre arguments, and the position's own acknowledged weaknesses (Dan 11:40-45 problems, everlasting kingdom language, *gadal/yether* progression).
+
+### Futurist Position Database (466 arguments)
+
+The futurist database represents the dispensationalist reading that inserts a gap between Daniel's 69th and 70th weeks and places the climactic fulfillment in a future tribulation. Sources include J.N. Darby's *Synopsis* (the origin of dispensationalism), John Walvoord, J. Dwight Pentecost, Thomas Ice, Harold Hoehner, and Robert Anderson.
+
+The database contains gap/parenthesis arguments, revived-Rome theory, future Antichrist identification, type/antitype reasoning (Antiochus as historical type), literal time-period arguments, the Israel/Church distinction, Third Temple evidence, and counter-arguments to historicist and preterist readings.
+
+### How the Databases Are Used
+
+The databases serve two critical functions in the study pipeline:
+
+1. **Prompt Review (Phase 2.5):** Before the research agent runs, a reviewer checks whether the research scope covers the arguments each position's database expects for that chapter. Missing arguments are added as research directives. This prevents the study from accidentally omitting a position's key claims.
+
+2. **Position Validation (Phase 5):** After the analysis is written, dedicated validators check the study against each position's database. The validator asks: Is each argument accurately represented? Is it present, missing, or misrepresented? Are the evidence classifications correct? This catches both straw-manning (weakening a position's case) and over-claiming (classifying evidence at a higher tier than warranted).
+
+The databases are the authority on what each position holds. If the database says the historicist position argues X, and the study attributes Y to historicism, that is a misrepresentation -- even if the validator's own training knowledge thinks Y is defensible. This constraint keeps the investigation honest.
+
+---
+
 ## Evidence Classification Methodology
 
 The core of the methodology is a three-tier evidence classification system that distinguishes between what Scripture directly states, what necessarily follows from it, and what positions claim it implies.
