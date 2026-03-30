@@ -108,7 +108,7 @@ The tools draw from these primary data sources:
 
 A distinctive feature of this series is that each interpretive position has its own **dedicated argument database** -- a curated collection of that position's strongest arguments, verified against its own scholarly tradition. These databases ensure that no position is straw-manned or under-represented.
 
-### Historicist Position Database (504 arguments)
+### Historicist Position Database (942 arguments)
 
 The historicist database represents the traditional Protestant reading of Daniel as continuous prophecy spanning from Babylon to the Second Coming. Its arguments were verified against Ellen White's writings, SDA pioneer scholarship (Uriah Smith, William Miller, Josiah Litch, S.N. Haskell), LeRoy Froom's *Prophetic Faith of Our Fathers*, and Stephen Bohr's study notes.
 
