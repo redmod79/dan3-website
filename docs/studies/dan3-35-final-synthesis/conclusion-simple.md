@@ -122,6 +122,20 @@ The text of Daniel presents a God who knows the end from the beginning, who gove
 
 ---
 
+## Why Do Three Positions Exist?
+
+The series reveals that each position's structural behavior traces to a single presupposition brought to the text:
+
+**Preterism starts with an assumption about prophecy itself.** The critical variant holds that genuine predictive prophecy does not occur — Daniel must have been written after the events it describes. If that is true, the "prophecies" necessarily end where the author's knowledge ends (~165 BC). The conservative variant may accept Daniel's authorship but still limits the text's scope to the immediate audience. Either way, a scope cap is imposed on the text from outside. But the text itself claims to be genuine prophecy — "there is a God in heaven that revealeth secrets, and maketh known...what shall be in the latter days" (Daniel 2:28) — and its own vocabulary consistently extends beyond any Maccabean horizon.
+
+**Futurism starts with an assumption about God's people.** The dispensational system requires a sharp distinction between Israel and the Church: God has two separate programs. The gap thesis, the rapture, and the Third Temple all follow from this one conviction. But this distinction is not derived from Daniel — it is imported from dispensational tradition. Paul's olive tree presents one people with faith as the sole condition of membership (Romans 11:17-24). Six New Testament passages from three authors challenge the sharp distinction.
+
+**Historicism starts with the text's own claims.** The Bible claims God declares "the end from the beginning" (Isaiah 46:10). Daniel claims "there is a God in heaven that revealeth secrets" (Daniel 2:28). The vocabulary chains extend the vision's scope to bodily resurrection. Historicism follows these markers to their stated endpoints without capping them or fragmenting them with imported gaps. Its presupposition — that genuine prophecy is possible and that God has one people — is not external to the text. It is what the text claims about itself.
+
+This is why the evidence asymmetry exists. Preterism and futurism each require a presupposition that the biblical text resists. Historicism's presupposition is affirmed by the text's own claims. The evidence classification did not create this asymmetry — it measured one that was already built into the relationship between each framework and the text it claims to interpret.
+
+---
+
 ## Conclusion
 
 Three major interpretive systems have been tested against Daniel's text across a comprehensive, 36-study investigation. The result is not a verdict that one tradition "wins" and the others are worthless. It is a finding about structural coherence: which reading stays most faithfully within the grain of the text, accounts for the most evidence at the fewest inferential steps, and faces the fewest contradictions from what the text plainly says.
