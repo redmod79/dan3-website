@@ -35,7 +35,7 @@ The following HIST DB arguments relevant to Daniel 10-12 are adequately covered 
 
 8. **Willful king sub-position C: combined/sequential** (DB: identification) — PRESENT. The study accurately describes this as allowing both theological depth and geographical sensitivity, while noting the lack of a textual transition signal.
 
-9. **KoN/KoS identification debate** (DB: end-time-prophecy, multiple records) — PRESENT. The study presents Bohr/Secrets Unsealed Sub-position A (KoS = atheism/France, KoN = papacy) at full strength with the pronoun analysis, while fairly presenting Sub-positions B and C as competitors. The study correctly identifies the pronoun problem for Sub-position A and the chain-disconnection problem for Sub-position B.
+9. **KoN/KoS identification debate** (DB: end-time-prophecy, multiple records) — PRESENT. The study presents Bohr/Secrets Unsealed Sub-position A (KoS = atheism/France, KoN = papacy) at full strength with the pronoun analysis, while fairly presenting Sub-positions B and C as competitors. The study now correctly notes that the pronoun concern for Sub-position A is resolved by the two-party subject-switch reading (when KoN becomes grammatical subject, alav shifts to KoS; a subject cannot be its own object); the remaining weakness for Sub-position A is the geographical difficulty of Dan 11:41-43. The chain-disconnection problem for Sub-position B is noted.
 
 10. **1798 deadly wound / French Revolution** (DB: end-time-prophecy) — PRESENT. Adequately covered in the KoN/KoS discussion and time-period sections.
 
@@ -116,7 +116,7 @@ None identified. The study presents each argument at full strength.
 
 4. **Claim #4 (Dan 11:36 willful king = papacy, I-A(2) MED-HIGH):** Properly classified. Four converging lines (kir'tsono chain, za'am bracket, necheratsah link, 2 Thess 2:4 parallel) create a strong I-A(2) case. MED-HIGH confidence appropriate. Classification CORRECT.
 
-5. **Claim #5a (KoN = papacy Sub-A, I-A(3) LOW-MED):** Properly classified. Depends on I-A(2) willful king = papacy, then adds the seven-way equivalence chain. The pronoun problem and geographical difficulty are honestly noted. I-A(3) LOW-MED is correct. Classification CORRECT.
+5. **Claim #5a (KoN = papacy Sub-A, I-A(3) LOW-MED):** Properly classified. Depends on I-A(2) willful king = papacy, then adds the seven-way equivalence chain. The pronoun concern is now resolved by the two-party subject-switch reading (grammatically valid; taught by Bohr/Secrets Unsealed; Froom PFF2-3), which removes one of the two previous weaknesses. The geographical difficulty of Dan 11:41-43 (Egypt, Libya, Ethiopia named in a chapter that treats them geographically in vv. 5-15) remains as the primary unresolved weakness. I-A(3) LOW-MED classification remains appropriate: the chain depth is unchanged (three inference steps), and the geographical difficulty sustains the low-medium confidence range. Classification CORRECT but note: the pronoun problem is no longer a separate weakness.
 
 6. **Claim #5b (KoN = Turkey Sub-B, I-A(2) MED):** Properly classified. Geographical basis is solid but disconnection from vocabulary chains is honestly noted. Classification CORRECT.
 

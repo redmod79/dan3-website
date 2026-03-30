@@ -173,7 +173,7 @@ Rev 1:1 opens with ha dei genesthai (verbatim from Dan 2:28 LXX). Rev 13:1-2 abs
 ## 5. Honest Weaknesses Ranked by Severity
 
 ### Rank 1: KoN/KoS Identification in Dan 11:40+ (Greatest Weakness)
-Three competing HIST sub-positions exist, each with textual strengths and weaknesses. Sub-A (Papacy/France) has the za'am bracket and kir'tsono chain but faces pronoun problems and geographical difficulty (Egypt, Libya, Ethiopia named in 11:41-43). Sub-B (Turkey/Egypt) handles geography but disconnects from vocabulary chains. Sub-C (Combined) avoids both problems but lacks a textual transition signal. The inability of HIST interpreters to reach consensus is itself a weakness.
+Three competing HIST sub-positions exist, each with textual strengths and weaknesses. Sub-A (Papacy/France) has the za'am bracket and kir'tsono chain but faces geographical difficulty (Egypt, Libya, Ethiopia named in 11:41-43). The 11:40 pronoun (alav) is not a distinct weakness: subject-switch grammar — KoN becoming the subject of the second clause — allows alav to shift referent to KoS, making the three-party reading one valid parsing alongside the two-party reading supported by Bohr and Reformation interpreters. Sub-A's remaining weakness is geographical, not pronominal. Sub-B (Turkey/Egypt) handles geography but disconnects from vocabulary chains. Sub-C (Combined) avoids both problems but lacks a textual transition signal. The inability of HIST interpreters to reach consensus is itself a weakness.
 
 ### Rank 2: Three-Horn Identification in Dan 7
 The text says three horns are "plucked up by the roots" but does not name them. The traditional identification (Heruli, Vandals, Ostrogoths, unified by Arian theology) is I-A(2) MED. The Arian factor provides a coherent rationale but is not stated in the text.
@@ -201,7 +201,7 @@ Constructed from Dan 12:1 imagery (trouble, book of life) combined with broader 
 ## 6. Internal Sub-Positions
 
 ### KoN/KoS in Dan 11:40+
-- **Sub-A (Papacy/France):** Strongest vocabulary chain support (za'am bracket, kir'tsono chain, seven-way power equivalence). Weakest geography (Egypt, Libya, Ethiopia named literally in 11:41-43) and pronoun problem (willful king = KoN requires phase distinction).
+- **Sub-A (Papacy/France):** Strongest vocabulary chain support (za'am bracket, kir'tsono chain, seven-way power equivalence). Weakest geography (Egypt, Libya, Ethiopia named literally in 11:41-43). The pronoun in 11:40b (alav) is resolved by subject-switch grammar: when KoN becomes the grammatical subject of the second clause, alav naturally shifts to KoS. Both the three-party and two-party readings are grammatically valid; the two-party reading (willful king = KoN throughout) is supported by Bohr/Secrets Unsealed and Reformation interpreters. Sub-A's genuine weakness is geographical, not pronominal.
 - **Sub-B (Turkey/Egypt):** Strongest geography (matches Seleucid territory for north, Ptolemaic for south). Weakest vocabulary chain support (disconnects from Dan 8/9 horn identification).
 - **Sub-C (Combined/Sequential):** Avoids both problems but lacks textual transition signal.
 - **Assessment:** Sub-A has the strongest textual grounding through vocabulary chains but the most difficult geographical reconciliation. No sub-position exceeds I-A(2-3) LOW-MED.

@@ -213,7 +213,7 @@
 ### Daniel 11:40
 **Context:** The time of the end arrives. Both KoS and KoN attack the willful king.
 **Direct statement:** "At the time of the end shall the king of the south push at him [immo]: and the king of the north shall come against him [alav] like a whirlwind."
-**Original language:** The 3ms pronouns immo ("with/against HIM") and alav ("upon/against HIM") refer back to the willful king of vv. 36-39. Both KoS and KoN attack "him" -- meaning the willful king is DISTINCT from both KoN and KoS. This is the pronoun analysis established in prior study dan-19.
+**Original language:** The 3ms pronouns immo ("with/against HIM") and alav ("upon/against HIM") are grammatically ambiguous and admit two valid readings. Under the three-party reading, both pronouns refer back to the willful king of vv. 36-39 — KoS and KoN each attack a third party (the willful king), making him DISTINCT from both. Under the two-party reading (Bohr/Secrets Unsealed; attested in Froom PFF2-3), when KoN becomes the grammatical SUBJECT of the second clause, alav shifts by subject-switch grammar to the nearest non-subject referent: since a subject cannot be its own object, alav refers to KoS, producing an attack/counterattack sequence (KoS strikes KoN/willful king; KoN retaliates against KoS). Both readings are grammatically valid; neither can be dismissed on syntactic grounds alone.
 **Cross-references:** Dan 11:35 (eth qets -- same phrase marks the transition to v. 40's eth qets).
 **Relationship to other evidence:** This is the crux of the internal HIST debate on KoN/KoS identification. Three sub-positions exist:
 

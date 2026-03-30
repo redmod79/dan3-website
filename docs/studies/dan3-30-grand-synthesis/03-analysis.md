@@ -92,7 +92,7 @@ PRET has the shallowest chain depth in Dan 8 (its strongest chapter) due to the 
 
 ### Daniel 10-12 (dan3-22)
 
-**Established (E/N):** biyn chain, acharit ha-yamim scope, kir'tsono chain, za'am bracket, purification triad bracket, maskilim chain, dera'on hapax pair, Dan 12:13 personal promise. Three-party pronoun structure in Dan 11:40 distinguishes the willful king from both KoN and KoS.
+**Established (E/N):** biyn chain, acharit ha-yamim scope, kir'tsono chain, za'am bracket, purification triad bracket, maskilim chain, dera'on hapax pair, Dan 12:13 personal promise. Dan 11:40 pronoun structure: both the three-party reading (willful king distinct from KoN and KoS) and the two-party reading (willful king = KoN, with alav shifting naturally when KoN becomes subject of the second clause) are grammatically valid; the three-party parsing is one option, not the only one.
 
 **Specification-match matrix (16 specs):** HIST has 3 I-A(1) HIGH, 4 I-A(2) MED, 6 I-A(3) LOW. PRET has 3 I-A(1) HIGH, 4 I-A(1-2) MED, 4 I-A(2-3) LOW, 2 I-D LOW. FUT has 5 I-A(1) HIGH, 1 I-A(1) MED, 4 I-A(2) MED, 3 I-A(2) LOW, 1 I-C LOW.
 
@@ -165,10 +165,10 @@ The asymmetry is measurable: PRET faces the highest proportion of E/N-grounded o
 - **I-C:** 1 (clay = church-state union in Dan 2:41-43, I034 — sub-position item; chasaph means potsherd/clay per BDB; church-state interpretation requires external framework; does not affect core HIST claims)
 - **I-D:** 0 (zero text-overriding inferences required)
 - **Internal sub-positions:** Dan 11:40-45 KoN/KoS identification — three competing sub-positions:
-  - Sub-A: Papacy = willful king, France = KoS, Papacy = KoN (I-A(3) LOW-MED)
+  - Sub-A: Papacy = willful king, France = KoS, Papacy = KoN (I-A(3) LOW-MED). Previously cited weakness — three-party pronoun structure forcing willful king to be distinct from KoN — is resolved: the two-party reading (willful king = KoN) is grammatically equally valid and is supported by Bohr/Secrets Unsealed and Reformation-era interpreters. Sub-A's remaining weakness is geographical identification difficulty and the vocabulary chain connecting willful king to 11:36's kir'tsono figure. Sub-A preserves the papacy vocabulary chains across 11:36-45. May be stronger than Sub-B in some respects.
   - Sub-B: Turkey/Ottoman = KoN, Egypt = KoS (I-A(2) MED)
   - Sub-C: Combined configurations
-- **Sub-position with strongest textual support:** Sub-B (Turkey/Ottoman) has the shallowest chain depth (I-A(2)) but no consensus exists within HIST scholarship
+- **Sub-position comparison:** Sub-B (Turkey/Ottoman) retains the shallowest chain depth (I-A(2)) for the KoN/KoS identification specifically. Sub-A is stronger in vocabulary-chain continuity across 11:36-45. No consensus exists within HIST scholarship; competition between sub-positions remains HIST's greatest weakness.
 - **Honest weaknesses (from dan3-27, 8 total ranked by severity — none rise to FATAL/CRITICAL/SEVERE; all classified ≤MODERATE since they address history-mapping or methodology-level questions, not textual contradictions):**
   1. Dan 11:40-45 KoN/KoS internal disagreement (Rank 1 — three sub-positions, none exceeding I-A(2-3) LOW-MED) — HIST's greatest weakness
   2. Three-horn identification (Rank 2, I-A(2) MED — Heruli/Vandals/Ostrogoths identification is inferential)

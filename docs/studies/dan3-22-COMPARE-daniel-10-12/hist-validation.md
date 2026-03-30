@@ -80,7 +80,7 @@ The following major HIST arguments were checked against the DB and perspective s
 
 3. **nagiyd berith = Christ (11:22)** -- Five-title sar/nagiyd prince chain correctly documented. I-A(2) MED-HIGH classification matches dan3-19. DB record confirms.
 
-4. **KoN/KoS three sub-positions** -- Sub-A (Papacy/France), Sub-B (Turkey/Egypt), Sub-C (Combined) all correctly presented with their respective strengths and weaknesses. Sub-A's pronoun problem and geographical difficulty are stated. Sub-B's disconnection from vocabulary chains is stated. The existence of three competing sub-positions as HIST's greatest weakness is explicitly acknowledged. Classifications match dan3-19.
+4. **KoN/KoS three sub-positions** -- Sub-A (Papacy/France), Sub-B (Turkey/Egypt), Sub-C (Combined) all correctly presented with their respective strengths and weaknesses. Sub-A's pronoun problem is resolved: the subject-switch grammar (when KoN becomes grammatical subject, alav shifts to KoS; a subject cannot be its own object) means both the three-party and two-party readings are grammatically valid; the two-party reading identifies the willful king as KoN and is supported by Bohr/Secrets Unsealed and Reformation-era interpreters (Froom PFF2-3). Sub-A's geographical difficulty remains. Sub-B's disconnection from vocabulary chains is stated. The existence of three competing sub-positions as HIST's greatest weakness is explicitly acknowledged. Classifications match dan3-19.
 
 5. **Day-year principle for time periods** -- I-A(1) HIGH classification matches dan3-19. The 508 starting point is correctly identified as HIST's "weakest chronological anchor." The 1260 (538-1798) endpoint is correctly noted as "relatively established."
 

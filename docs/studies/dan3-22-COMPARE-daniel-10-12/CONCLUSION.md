@@ -82,7 +82,7 @@ Tree 3 (E-Item Positional Classification).
 | E18 | Dan 10:5-6 six-element description parallels Rev 1:13-16 (linen, gold girdle, lightning face, fiery eyes, bronze limbs, multitude voice) | Dan 10:5-6 | ALL | E157 |
 | E19 | negiyd berith (prince of the covenant) — same nagiyd morphology (Noun.ms.Cst) as mashiach nagiyd in Dan 9:25 | Dan 11:22 | ALL | E158 |
 | E20 | The willful king: kir'tsono (4th chain), double Hithpael (yitromem + yitgaddel — unique in Daniel), speaks against el elim, prospers till za'am accomplished, necheratsah shall be done | Dan 11:36 | ALL | E159 |
-| E21 | Three-party pronoun structure: KoS pushes immo, KoN storms alav — willful king grammatically distinct from both | Dan 11:40 | ALL | E160 |
+| E21 | Three-party pronoun structure: KoS pushes immo, KoN storms alav — pronoun structure is grammatically ambiguous; both a three-party reading (willful king distinct from both) and a two-party reading (willful king = KoN, with subject-switch shifting alav to KoS) are valid parsings | Dan 11:40 | ALL | E160 |
 | E22 | appeden (HAPAX LEGOMENON) palace-tent between seas and glorious holy mountain; king comes to end, none helps | Dan 11:45 | ALL | E161 |
 | E23 | Michael stands up (ya'amod), titled ha-sar ha-gadol; unprecedented trouble; deliverance of those written in the book | Dan 12:1 | ALL | E162 |
 | E24 | Dual-outcome resurrection; dera'on (H1860) HAPAX PAIR with Isa 66:24; dual olam construct chains | Dan 12:2 | ALL | E163 |
@@ -102,7 +102,7 @@ Tree 3 (E-Item Positional Classification).
 |---|---|---|---|---|---|
 | N1 | The dera'on hapax pair locks Dan 12:2 to permanent eschatological judgment (Isa 66:24 new-heavens-and-earth context) | E24 | dera'on occurs in only 2 OT verses. Isa 66:24 is universally agreed to describe permanent eschatological judgment. Any scholar examining the concordance confirms the exclusivity. | ALL | N099 |
 | N2 | Dan 12:13 personal promise requires individual bodily resurrection for Daniel — cannot be contained within Maccabean or metaphorical/national framework | E27 | The address is to Daniel individually ("thou shalt rest and stand in thy lot"). Daniel had been dead for centuries by the Maccabean era. No scholar can deny the individual address. | ALL | N100 |
-| N3 | The three-party pronoun structure in 11:40 distinguishes the willful king from both KoN and KoS | E21 | immo and alav both refer to the established 3ms subject of 11:36-39. KoS and KoN are named as distinct entities who attack "him." The grammar is verifiable. | ALL | N101 |
+| N3 | The pronoun structure in 11:40 is grammatically ambiguous: a three-party reading (willful king distinct from both KoN and KoS) and a two-party reading (willful king = KoN, alav naturally shifting to KoS when KoN becomes subject) are both valid parsings | E21 | When KoN becomes the grammatical subject of the second clause, alav shifts to refer to KoS — a subject cannot be its own object. Both readings are consistent with Hebrew grammar. The two-party reading is supported by Bohr/Secrets Unsealed and Reformation-era interpreters (Froom PFF2-3). This is a genuine ambiguity, not a forced implication. | ALL | N101 |
 | N4 | The purification triad bracket (11:35 // 12:10) frames Dan 11:36-12:9 as a literary unit | E26, E31 | The triple co-occurrence of tsaraph + barar + laban is unique to these two Daniel verses in the entire OT. Stem changes between the occurrences are morphologically verifiable. | ALL | N102 |
 | N5 | eth qets chain extends the vision's scope to bodily resurrection (12:2, 12:13) | E5, E10, E24, E27 | eth qets chain: 8:17, 11:35, 11:40, 12:4, 12:9 — terminates alongside 12:2 (resurrection) and 12:13 (Daniel's personal resurrection). No Maccabean event constitutes bodily resurrection. | ALL | N019 (prior) |
 
@@ -119,7 +119,7 @@ Tree 3 (E-Item Positional Classification).
 | I5 | Michael is a created archangel | I-A(1) | E16 (echad ha-sarim — partitive "one of"), Jude 1:9 ("durst not" = deference), patron-angel schema | Requires reading echad as partitive; requires instrumental reading of 1 Thess 4:16 | #2 | PRET | MED |
 | I6 | nagiyd berith (11:22) = Christ | I-A(2) | E19 (nagiyd chain: 9:25 mashiach nagiyd -> 11:22 nagiyd berith), five-title prince chain | Requires linking nagiyd across chapters; text does not identify the prince of the covenant | #4a, #5 | HIST | MED-HIGH |
 | I7 | nagiyd berith (11:22) = Onias III | I-A(1) | E19 (negiyd berith), historical match (2 Macc 4:33-38), immediate Seleucid context | Requires identifying berith as priestly covenant rather than divine covenant; requires external historical source | #1 | PRET | HIGH |
-| I8 | Dan 11:40-45 = papacy end-time events (Sub-A: KoN=papacy, KoS=France/atheism) | I-A(3) | E21 (three-party structure), E22 (geographic specs), za'am/kir'tsono vocabulary chains | Requires spiritual reading of geography; pronoun problem (willful king = papacy AND KoN = papacy); three competing HIST sub-positions | #1, #3 | HIST | LOW-MED |
+| I8 | Dan 11:40-45 = papacy end-time events (Sub-A: KoN=papacy, KoS=France/atheism) | I-A(3) | E21 (pronoun ambiguity), E22 (geographic specs), za'am/kir'tsono vocabulary chains | Requires spiritual reading of geography; pronoun problem resolved by two-party reading (subject-switch grammar: willful king = KoN, alav shifts to KoS — supported by Bohr/Secrets Unsealed and Reformation-era interpreters); geographical difficulty remains; three competing HIST sub-positions | #1, #3 | HIST | LOW-MED |
 | I9 | Dan 11:40-45 = papacy end-time events (Sub-B: KoN=Turkey, KoS=Egypt) | I-A(2) | E21 (three-party structure), E22 (geographic specs fit literally) | Disconnects KoN from za'am/kir'tsono vocabulary chains; Turkey is not a self-exalting religious power | #1 | HIST | MED |
 | I10 | Dan 11:40-45 = failed prediction about Antiochus | I-D | E21, E22: five specifications fail historically (no 3rd Egyptian campaign, wrong death location, etc.) | Requires overriding E-items that establish Daniel as genuinely predictive (E13 Matt 24:15, prior E-items from Dan 7-8 COMPAREs) | #1 | CRIT | LOW |
 | I11 | Dan 11:40-45 = future eschatological campaign | I-A(2) | E21, E22, 2 Thess 2:8 (destruction at Christ's coming), Rev 19:20 (beast destroyed) | Depends on gap thesis (I-C); no historical verification possible | #1, #3 | FUT | MED |
@@ -165,7 +165,7 @@ The FOR evidence establishes that Dan 11:36 introduces escalated language with m
 **Step B (N-tier tests):**
 - N1 (dera'on hapax): Universal agreement — any scholar confirms only 2 OT occurrences. No interpretation required. Zero added concepts.
 - N2 (Dan 12:13 personal resurrection): Universal agreement — the address is individual. No interpretation required. Zero added concepts.
-- N3 (three-party pronoun): Universal agreement — the pronouns are grammatically verifiable. No interpretation required. Zero added concepts.
+- N3 (pronoun ambiguity in 11:40): The pronouns are grammatically verifiable, but the structure admits two valid parsings (three-party and two-party). N3 documents a genuine grammatical ambiguity, not a forced implication. Both readings pass the grammar test; neither can be ruled out at E/N tier.
 - N4 (purification bracket): Universal agreement — triple co-occurrence is unique. Stem changes are morphologically verifiable. Zero added concepts.
 - N5 (eth qets chain to resurrection): Universal agreement — the chain terminates at 12:2-13 which describes resurrection. No Maccabean event is bodily resurrection.
 
@@ -213,7 +213,7 @@ CRIT: I10 (failed prediction) I-D LOW.
 |----------|-----------|-----|
 | N1: dera'on hapax pair (12:2 + Isa 66:24) | PRET | Forces Dan 12:2 into permanent eschatological judgment context; resists containment within Maccabean framework |
 | N2: Dan 12:13 personal promise to Daniel | PRET | Daniel's individual bodily resurrection cannot be fulfilled in the Maccabean era (Daniel dead for centuries) |
-| N3: Three-party pronoun structure (11:40) | ALL | The willful king is distinct from KoN and KoS — constrains Sub-A HIST (papacy ≠ KoN if same entity) |
+| N3: Pronoun ambiguity in 11:40 (three-party vs. two-party) | ALL | Both readings are grammatically valid. Three-party reading distinguishes the willful king from KoN and KoS, creating tension for Sub-A HIST. Two-party reading (willful king = KoN, with subject-switch) resolves Sub-A's pronoun problem; geographical difficulty for Sub-A remains. |
 | N5: eth qets chain extends to bodily resurrection | PRET | "The time of the end" terminates at resurrection (12:2,13), not at a historical crisis |
 | E13: Jesus cites Daniel as prophetic (Matt 24:15) | CRIT | Jesus treats the abomination prophecy as genuine prediction, from AD 30 perspective; counter-evidence to vaticinium ex eventu |
 | E20: Double Hithpael unique in Daniel | PRET | The gadal stem escalation (Qal->Hiphil->Hithpael) creates a grammatical progression that the continuity reading must account for |
@@ -290,7 +290,7 @@ Dan 10-12 contains prophetic specifications that the three perspective studies h
 - The kir'tsono phrase marks each of four figures doing "according to his will" (8:4, 11:3, 11:16, 11:36) (E20)
 - The za'am bracket (8:19 + 11:36) structurally binds the Dan 8 vision to the willful king section (E6)
 - The willful king of 11:36 is described with a unique double Hithpael of self-exaltation — the gadal stem progression (Qal -> Hiphil -> Hithpael) is verifiable morphological data (E20)
-- The three-party pronoun structure in 11:40 distinguishes the willful king from both KoN and KoS (N3)
+- The pronoun structure in 11:40 is grammatically ambiguous: both a three-party reading (willful king distinct from KoN and KoS) and a two-party reading (willful king = KoN, alav shifts to KoS on subject-switch) are valid parsings — neither can be ruled out at E/N tier (N3)
 - The purification triad bracket (11:35 // 12:10) frames 11:36-12:9 as a literary unit (N4)
 - The maskilim chain (11:33 -> 11:35 -> 12:3 -> 12:10) provides unbroken vocabulary continuity across the proposed break (E25, E26)
 - Dan 12:2 describes a dual-outcome resurrection locked to permanent eschatological judgment by the dera'on hapax pair with Isa 66:24 (E24, N1)

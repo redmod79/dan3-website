@@ -210,12 +210,12 @@
 **Direct statement:** At the eth qets, the KoS attacks "him" (immo) and the KoN storms "against him" (alav). The pronoun referents are critical.
 **Original language:**
 - **u-be-eth qets** — "at the time of the end" — the Danielic technical term, explicitly placing 11:40ff in the eschaton.
-- **yitnagach immo** (Hithpael of nagach + immo) — KoS pushes AT HIM. The pronoun "him" refers to the willful king of 11:36.
-- **yista'er alav** (Hithpael of sa'ar + alav) — KoN storms AGAINST HIM. Again, "him" = willful king.
-- THREE-PARTY STRUCTURE: The willful king is grammatically distinct from both KoS and KoN. The KoS pushes against him; the KoN storms against him. The willful king is a third entity attacked by both.
+- **yitnagach immo** (Hithpael of nagach + immo) — KoS pushes AT HIM. The pronoun "him" (immo) most naturally refers to the willful king of 11:36 — the nearest prior subject.
+- **yista'er alav** (Hithpael of sa'ar + alav) — KoN storms AGAINST HIM. Two valid parsings exist: (1) **Three-party reading:** alav continues to refer to the willful king, making both KoS and KoN move against a distinct third figure — the Antichrist. (2) **Two-party reading:** when the KoN becomes the grammatical subject of the second clause, alav can naturally shift to refer back to the KoS attacker — KoN counterattacks the KoS. Both parsings are grammatically valid Hebrew.
+- **Pronoun ambiguity:** The three-party structure (willful king as distinct from both KoS and KoN) is one valid reading; an attack/counterattack sequence (KoS attacks, KoN responds against KoS) is equally valid. Context and interpretive framework govern the choice.
 **FUT reading:** The three-party structure (classified N5 in prior study) is foundational. The willful king of 11:36 is NOT the KoN — he is a distinct figure against whom both KoS and KoN move. FUT identifies: the willful king = future Antichrist (centered in the land of Israel per 11:41-45); KoS = a southern power (Arab/African confederacy); KoN = a northern power (Russia or revived Seleucid-type power). The "time of the end" marker places this in the tribulation period. An intra-FUT variation exists: Darby distinguishes the willful king from the KoN more sharply, arguing that the willful king operates "in the land of Judea" and that Dan 11:45 describes the end of the KoN, not the willful king.
 **Cross-references:** Ezek 38:8-12 (Gog from the north, latter years invasion). Zech 14:2 (all nations against Jerusalem).
-**Relationship to other evidence:** The three-party structure is strong textual evidence (pronoun grammar). The specific geopolitical identifications are I-C FUT (requiring contemporary mapping).
+**Relationship to other evidence:** The pronoun grammar supports two valid readings: a three-party structure (willful king as distinct Antichrist figure) or a two-party attack/counterattack (KoN repels KoS). FUT favors the three-party reading because it coheres with the willful king's distinctness established in 11:36-39, but the grammar alone does not decide the question. The specific geopolitical identifications are I-C FUT (requiring contemporary mapping).
 
 #### Daniel 11:41
 **Context:** "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon."
