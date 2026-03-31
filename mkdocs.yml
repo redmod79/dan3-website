@@ -768,5 +768,56 @@ nav:
           - "Cross-Testament Parallels": studies/dan3-35-final-synthesis/raw-data/parallels.md
           - "Strong's Lookups": studies/dan3-35-final-synthesis/raw-data/strongs-lookups.md
 
+    # ── Supplemental: Testing the Presuppositions ──
+    - "Supplemental: Testing the Presuppositions":
+
+      - "S1 -- Testing PRET: Predictive Prophecy":
+        - studies/dan3-S1-predictive-prophecy-biblical-claim/conclusion-simple.md
+        - Conclusion: studies/dan3-S1-predictive-prophecy-biblical-claim/CONCLUSION.md
+        - Analysis: studies/dan3-S1-predictive-prophecy-biblical-claim/03-analysis.md
+        - Verses: studies/dan3-S1-predictive-prophecy-biblical-claim/02-verses.md
+        - Word Studies: studies/dan3-S1-predictive-prophecy-biblical-claim/04-word-studies.md
+        - Topics: studies/dan3-S1-predictive-prophecy-biblical-claim/01-topics.md
+        - Research Scope: studies/dan3-S1-predictive-prophecy-biblical-claim/PROMPT.md
+        - References: studies/dan3-S1-predictive-prophecy-biblical-claim/00-references.md
+        - Raw Data:
+          - "Greek Parsing": studies/dan3-S1-predictive-prophecy-biblical-claim/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-S1-predictive-prophecy-biblical-claim/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-S1-predictive-prophecy-biblical-claim/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-S1-predictive-prophecy-biblical-claim/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-S1-predictive-prophecy-biblical-claim/raw-data/strongs-lookups.md
+      - "S2 -- Testing FUT: Mystery Parenthesis":
+        - studies/dan3-S2-church-mystery-parenthesis/conclusion-simple.md
+        - Conclusion: studies/dan3-S2-church-mystery-parenthesis/CONCLUSION.md
+        - Analysis: studies/dan3-S2-church-mystery-parenthesis/03-analysis.md
+        - Verses: studies/dan3-S2-church-mystery-parenthesis/02-verses.md
+        - Word Studies: studies/dan3-S2-church-mystery-parenthesis/04-word-studies.md
+        - Topics: studies/dan3-S2-church-mystery-parenthesis/01-topics.md
+        - Research Scope: studies/dan3-S2-church-mystery-parenthesis/PROMPT.md
+        - References: studies/dan3-S2-church-mystery-parenthesis/00-references.md
+        - Raw Data:
+          - "Existing Studies": studies/dan3-S2-church-mystery-parenthesis/raw-data/existing-studies.md
+          - "Greek Parsing": studies/dan3-S2-church-mystery-parenthesis/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-S2-church-mystery-parenthesis/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-S2-church-mystery-parenthesis/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-S2-church-mystery-parenthesis/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-S2-church-mystery-parenthesis/raw-data/strongs-lookups.md
+      - "S3 -- Testing FUT: One People or Two":
+        - studies/dan3-S3-one-people-or-two-programs/conclusion-simple.md
+        - Conclusion: studies/dan3-S3-one-people-or-two-programs/CONCLUSION.md
+        - Analysis: studies/dan3-S3-one-people-or-two-programs/03-analysis.md
+        - Verses: studies/dan3-S3-one-people-or-two-programs/02-verses.md
+        - Word Studies: studies/dan3-S3-one-people-or-two-programs/04-word-studies.md
+        - Topics: studies/dan3-S3-one-people-or-two-programs/01-topics.md
+        - Research Scope: studies/dan3-S3-one-people-or-two-programs/PROMPT.md
+        - References: studies/dan3-S3-one-people-or-two-programs/00-references.md
+        - Raw Data:
+          - "External Verification": studies/dan3-S3-one-people-or-two-programs/raw-data/external-verification.md
+          - "Greek Parsing": studies/dan3-S3-one-people-or-two-programs/raw-data/greek-parsing.md
+          - "Hebrew Parsing": studies/dan3-S3-one-people-or-two-programs/raw-data/hebrew-parsing.md
+          - "Nave's Topics": studies/dan3-S3-one-people-or-two-programs/raw-data/naves-topics.md
+          - "Cross-Testament Parallels": studies/dan3-S3-one-people-or-two-programs/raw-data/parallels.md
+          - "Strong's Lookups": studies/dan3-S3-one-people-or-two-programs/raw-data/strongs-lookups.md
+
   - Methodology: methodology.md
   - "Tools & Process": tools.md

@@ -42,6 +42,9 @@ A 31-study comparative investigation of Daniel's prophecies through Historicist,
 | 33 | FUT Framework | What is the futurist reading of Daniel as a complete interpretive system? |
 | 34 | Framework Comparison | How do the three interpretive systems compare at the structural level? |
 | 35 | Final Synthesis | Final assessment: framework-evidence alignment, graded viability, and convergence |
+| S1 | Testing PRET: Predictive Prophecy | Does the Bible claim genuine predictive prophecy? Tests the critical preterist presupposition. |
+| S2 | Testing FUT: Mystery Parenthesis | Is the Church a 'mystery parenthesis' unknown to OT prophets? Tests futurism's keystone presupposition. |
+| S3 | Testing FUT: One People or Two | One people or two programs? Does the Bible teach one unified people of God or two separate tracks for Israel and the Church? |
 
 ## Built With
 

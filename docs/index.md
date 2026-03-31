@@ -1,6 +1,6 @@
 # Daniel: Three Views Compared
 
-*A 36-study comparative investigation of Daniel's prophecies through Historicist, Preterist, and Futurist lenses. 399 evidence items classified across 126 inferences.*
+*A 31-study comparative investigation of Daniel's prophecies through Historicist, Preterist, and Futurist lenses. 399 evidence items classified across 126 inferences.*
 
 ---
 
@@ -12,7 +12,7 @@ Three major schools of prophetic interpretation compete for how to read Daniel's
 - **Preterism (PRET):** The prophecies were fulfilled primarily in the Hellenistic/Roman period (by the 2nd century BC or 1st century AD)
 - **Futurism (FUT):** The prophecies are primarily about a future tribulation period, with gaps in the prophetic timeline
 
-Rather than assuming any position, this series investigates the biblical evidence from the ground up across 36 studies. Each vision cycle (Daniel 2, 7, 8, 8-9, 10-12) is examined three times -- once from each position's perspective -- and then subjected to a comparative analysis that classifies every evidence item.
+Rather than assuming any position, this series investigates the biblical evidence from the ground up across 31 studies. Each vision cycle (Daniel 2, 7, 8, 8-9, 10-12) is examined three times -- once from each position's perspective -- and then subjected to a comparative analysis that classifies every evidence item.
 
 ## The Approach
 
@@ -148,6 +148,16 @@ Capstone assessment combining detail-level evidence with framework-level analysi
 | # | Study | Question |
 |---|-------|----------|
 | 35 | [Final Synthesis](studies/dan3-35-final-synthesis/conclusion-simple.md) | Final assessment: framework-evidence alignment, graded viability, and convergence |
+
+### Supplemental: Testing the Presuppositions
+
+Independent studies testing whether each position's foundational presupposition has biblical support.
+
+| # | Study | Question |
+|---|-------|----------|
+| S1 | [Testing PRET: Predictive Prophecy](studies/dan3-S1-predictive-prophecy-biblical-claim/conclusion-simple.md) | Does the Bible claim genuine predictive prophecy? Tests the critical preterist presupposition. |
+| S2 | [Testing FUT: Mystery Parenthesis](studies/dan3-S2-church-mystery-parenthesis/conclusion-simple.md) | Is the Church a 'mystery parenthesis' unknown to OT prophets? Tests futurism's keystone presupposition. |
+| S3 | [Testing FUT: One People or Two](studies/dan3-S3-one-people-or-two-programs/conclusion-simple.md) | One people or two programs? Does the Bible teach one unified people of God or two separate tracks for Israel and the Church? |
 
 ---
 

@@ -57,6 +57,9 @@ SHORT_TITLES = {
     "dan3-33": "FUT Framework",
     "dan3-34": "Framework Comparison",
     "dan3-35": "Final Synthesis",
+    "dan3-S1": "Testing PRET: Predictive Prophecy",
+    "dan3-S2": "Testing FUT: Mystery Parenthesis",
+    "dan3-S3": "Testing FUT: One People or Two",
 }
 
 FULL_TITLES = {
@@ -96,6 +99,9 @@ FULL_TITLES = {
     "dan3-33": "What is the futurist reading of Daniel as a complete interpretive system?",
     "dan3-34": "How do the three interpretive systems compare at the structural level?",
     "dan3-35": "Final assessment: framework-evidence alignment, graded viability, and convergence",
+    "dan3-S1": "Does the Bible claim genuine predictive prophecy? Tests the critical preterist presupposition.",
+    "dan3-S2": "Is the Church a 'mystery parenthesis' unknown to OT prophets? Tests futurism's keystone presupposition.",
+    "dan3-S3": "One people or two programs? Does the Bible teach one unified people of God or two separate tracks for Israel and the Church?",
 }
 
 # Cluster groupings
@@ -154,6 +160,11 @@ CLUSTERS = [
         "name": "Final Synthesis",
         "desc": "Capstone assessment combining detail-level evidence with framework-level analysis to determine each position's viability.",
         "studies": ["dan3-35"],
+    },
+    {
+        "name": "Supplemental: Testing the Presuppositions",
+        "desc": "Independent studies testing whether each position's foundational presupposition has biblical support.",
+        "studies": ["dan3-S1", "dan3-S2", "dan3-S3"],
     },
 ]
 
@@ -216,10 +227,10 @@ def get_raw_data_name(filename: str) -> str:
 
 
 def find_study_folders() -> list[tuple[str, Path]]:
-    """Find all dan3-NN-* folders in the studies source directory."""
+    """Find all dan3-NN-* and dan3-SN-* folders in the studies source directory."""
     folders = []
     for d in sorted(STUDIES_SRC.iterdir()):
-        if d.is_dir() and re.match(r"dan3-\d{2}-", d.name):
+        if d.is_dir() and re.match(r"dan3-(\d{2}|S\d)-", d.name):
             slug = d.name
             num = slug.split("-")[1]
             key = f"dan3-{num}"
