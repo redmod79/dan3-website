@@ -1,6 +1,6 @@
 # Daniel: Three Views Compared
 
-*A 31-study comparative investigation of Daniel's prophecies through Historicist, Preterist, and Futurist lenses. 399 evidence items classified across 126 inferences.*
+*A 39-study comparative investigation of Daniel's prophecies through Historicist, Preterist, and Futurist lenses. 399 evidence items classified across 126 inferences.*
 
 ---
 
